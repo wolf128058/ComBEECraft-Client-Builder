@@ -4566,6 +4566,21 @@
       "fileSize": 803304
     },
     {
+      "path": "resourcepacks/Hold My Pokeballs+1.21.1.zip",
+      "hashes": {
+        "sha512": "0bb58382be49d44723345f00e0d8c73f17cb56af8249c6756124c2d7be9256791ffee4685cdac61a416ef0d6362d2a6c1151cf24b9ad8ffaf2b84f7a04a33d8b",
+        "sha1": "626d38c573037f6342487555303915afc17c4f0c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IymDcKlx/versions/qgxYCfDq/Hold%20My%20Pokeballs%2B1.21.1.zip"
+      ],
+      "fileSize": 1951896
+    },
+    {
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
       "hashes": {
         "sha512": "01426ce261df8a4fa99366efe30e98656bac43ac8a71db1265edb0b49c5e4abb9ada09d6877a6c1d728244fde202f57118339d3a0503a1cbc8af88325c8d4f5a",

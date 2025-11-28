@@ -291,6 +291,21 @@
       "fileSize": 123683886
     },
     {
+      "path": "mods/CobblemonIntros-1.0.0.jar",
+      "hashes": {
+        "sha512": "4c5b9ed003b0b9940d9cfc90944402d0a0042c83092e9de5861da5539f1adf15229c860ca505e4e72d79c69a19703cc74ec35916bf60bdd9a02b637fec39e94e",
+        "sha1": "d8c37fd53417bb5d939f82969dd1f4a1974ca0c9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gG3mz6AL/versions/FQY0xvNo/CobblemonIntros-1.0.0.jar"
+      ],
+      "fileSize": 13961
+    },
+    {
       "path": "mods/CobblemonMoveInspector-neoforge-1.3.0.jar",
       "hashes": {
         "sha512": "6a264e36f1f69c1e660fd6c25f27032da66ad48ff4f31e305e76af2865375e1d2e5548bad9ed566c0ba312e445d52cab1a641983553c3398e0613ce1bdad49ea",

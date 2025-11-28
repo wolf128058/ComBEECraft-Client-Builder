@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.5-preview02",
+  "versionId": "0.0.5-preview03",
   "name": "CombeeCraft Client",
   "summary": "",
   "files": [
@@ -829,21 +829,6 @@
         "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
       ],
       "fileSize": 74419
-    },
-    {
-      "path": "mods/MoreCobblemonTweaks-neoforge-1.1.5.jar",
-      "hashes": {
-        "sha512": "71201b9a53cc7e19bed36edb0a203d486a00685bf734583accf2f9c115111147019472678fd38ca4c8575c303c847c4c407dd43339f14084b6ee470f3fa20fb4",
-        "sha1": "35514d7d812f50d1ede1dcce4d8e3e24958bbb82"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/27mUjU59/MoreCobblemonTweaks-neoforge-1.1.5.jar"
-      ],
-      "fileSize": 139469
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",

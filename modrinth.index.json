@@ -1,10 +1,25 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.4",
+  "versionId": "0.0.5-preview",
   "name": "CombeeCraft Client",
   "summary": "",
   "files": [
+    {
+      "path": "datapacks/AllTheMons R3.0.zip",
+      "hashes": {
+        "sha512": "9c4d23d75fb6840426e297568f1cbba646598d6ee0d77e34175e428885e643f7c6524260e134cafd791298ce785647965e517116df0b45789ffe51837e7062d4",
+        "sha1": "734932a8aef4d091e53a9de849bf0fc0fada9d8a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JV5dvqVX/versions/KbK2OTtL/AllTheMons%20R3.0.zip"
+      ],
+      "fileSize": 11054345
+    },
     {
       "path": "datapacks/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip",
       "hashes": {
@@ -19,6 +34,21 @@
         "https://cdn.modrinth.com/data/W2pr9jyL/versions/J1wqmyOI/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip"
       ],
       "fileSize": 655394
+    },
+    {
+      "path": "datapacks/CCCwLegends.zip",
+      "hashes": {
+        "sha512": "6aeabffcdac31a1ef01af60ad197dd8e8efa3b7c0f3e5f45793bda615352adcd3874e0f9a77f26a82c0b5aaf2fe282b769d290c0300c7bac04708ba56245a10f",
+        "sha1": "02850b0c79c476f012410349060451386a914e23"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/578VPQc9/versions/t7bzMGjO/CCCwLegends.zip"
+      ],
+      "fileSize": 12518465
     },
     {
       "path": "mods/AEAdditions-1.21.1-6.0.2.jar",
@@ -259,6 +289,36 @@
         "https://cdn.modrinth.com/data/MdwFAVRL/versions/jeZJOCEb/Cobblemon-neoforge-1.7.0%2B1.21.1.jar.jar"
       ],
       "fileSize": 123683886
+    },
+    {
+      "path": "mods/CobblemonIntros-1.0.0.jar",
+      "hashes": {
+        "sha512": "4c5b9ed003b0b9940d9cfc90944402d0a0042c83092e9de5861da5539f1adf15229c860ca505e4e72d79c69a19703cc74ec35916bf60bdd9a02b637fec39e94e",
+        "sha1": "d8c37fd53417bb5d939f82969dd1f4a1974ca0c9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gG3mz6AL/versions/FQY0xvNo/CobblemonIntros-1.0.0.jar"
+      ],
+      "fileSize": 13961
+    },
+    {
+      "path": "mods/CobblemonIntros-1.0.0.jar",
+      "hashes": {
+        "sha512": "4c5b9ed003b0b9940d9cfc90944402d0a0042c83092e9de5861da5539f1adf15229c860ca505e4e72d79c69a19703cc74ec35916bf60bdd9a02b637fec39e94e",
+        "sha1": "d8c37fd53417bb5d939f82969dd1f4a1974ca0c9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gG3mz6AL/versions/FQY0xvNo/CobblemonIntros-1.0.0.jar"
+      ],
+      "fileSize": 13961
     },
     {
       "path": "mods/CobblemonMoveInspector-neoforge-1.3.0.jar",
@@ -606,6 +666,21 @@
       "fileSize": 98320
     },
     {
+      "path": "mods/FramedBlocks-10.5.1.jar",
+      "hashes": {
+        "sha512": "51cca270b93fd3180f25c0f8ceb00e8d7cba4829556e71d5535179d64d3db79268bd7630c040d599cb4e4cdfb24ca3c1b3fa039933e382a97279a6824d642b4c",
+        "sha1": "b9017c290dca4539441ce214466f8674f263603e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wbgfS34j/versions/q6hnNGtC/FramedBlocks-10.5.1.jar"
+      ],
+      "fileSize": 4283953
+    },
+    {
       "path": "mods/Geophilic v3.4.4 f15-88.mod.jar",
       "hashes": {
         "sha512": "1c7a424e0491a1e3d3dedc2a867cf10b8b0582b89b4a813a372a3a89ca89978610eb330305bc2ac041fb64c47fe5109cc35db79c8e711204e64cf5197db202fb",
@@ -769,6 +844,21 @@
         "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar"
       ],
       "fileSize": 1434674
+    },
+    {
+      "path": "mods/MoreCobblemonTweaks-neoforge-1.1.5.jar",
+      "hashes": {
+        "sha512": "71201b9a53cc7e19bed36edb0a203d486a00685bf734583accf2f9c115111147019472678fd38ca4c8575c303c847c4c407dd43339f14084b6ee470f3fa20fb4",
+        "sha1": "35514d7d812f50d1ede1dcce4d8e3e24958bbb82"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/27mUjU59/MoreCobblemonTweaks-neoforge-1.1.5.jar"
+      ],
+      "fileSize": 139469
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -1746,6 +1836,21 @@
       "fileSize": 367106
     },
     {
+      "path": "mods/cobblemonjourneymounts-1.4.0.jar",
+      "hashes": {
+        "sha512": "fcd5fc10a62c25e6c10788ae634748990e7aa6e0b297a935cbc53e70998bea2d441093e1aec3a91d1f25cc236d0f6c457a5ec5ad0f8bf840a4a0437bc58340b1",
+        "sha1": "23b33e97e94e2235106e880cdc74d3d2d1c4e6b1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vn5WCYr6/versions/xUxGcph5/cobblemonjourneymounts-1.4.0.jar"
+      ],
+      "fileSize": 1261469
+    },
+    {
       "path": "mods/cobblemonpokemonbadges-neoforge-0.1.1.jar",
       "hashes": {
         "sha512": "d5f1697282ce4a2334b3a3975ac25c5d26b00d93736b78fa70c8ab5f780dcc870fff7405d238a74298f9420f28f11d26529cdddb9ece8f341a1043b6880d9741",
@@ -2134,6 +2239,21 @@
         "https://cdn.modrinth.com/data/gcHIih5B/versions/4izgIGwK/deep_aether-1.21.1-1.1.4.jar"
       ],
       "fileSize": 40626167
+    },
+    {
+      "path": "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar",
+      "hashes": {
+        "sha512": "bef82a4a4340a82771ada80c483677b544f8295cdb8c8ec63953fcc4e67aae281e6d68bdaff55647a1908ff68788203d6b45d0d28229eaeaac8000a7a3f36acf",
+        "sha1": "7104cd59707a13e36f6e113dc17faa0a8ee496e3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/akQv5d1t/defaultoptions-neoforge-1.21.1-21.1.5.jar"
+      ],
+      "fileSize": 95656
     },
     {
       "path": "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar",
@@ -2974,6 +3094,21 @@
         "https://cdn.modrinth.com/data/qm9Jw8Jg/versions/tYb6vZfE/ly-clumps-v1.0.2.jar"
       ],
       "fileSize": 143704
+    },
+    {
+      "path": "mods/mafglib-0.4.1+mc1.21.1.jar",
+      "hashes": {
+        "sha512": "9294f14cf17605bbd0af7fb54278395ad6865145d8dcf2100289128daf966cee45862a5032f5e248d70aa6aa34418d937cfac9c1c3d7ce78317531b46570a75d",
+        "sha1": "043e9c2dc77620c32da268f6e631d664e7582255"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SKI34J7B/versions/znxhC06k/mafglib-0.4.1%2Bmc1.21.1.jar"
+      ],
+      "fileSize": 1113481
     },
     {
       "path": "mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
@@ -4371,6 +4506,51 @@
       "fileSize": 26997287
     },
     {
+      "path": "resourcepacks/Battle Tracks v1.1b.zip",
+      "hashes": {
+        "sha512": "ab7d30a9e0bb845c06d2ae72716f59b2f070bc688cc8e65c656de481bd3c85eb72695b2c5a219ecd3c009ff0b5acebe85dd9fcbf4045ce107857d7988e23baef",
+        "sha1": "47e812260fe90db2577083400e9c80822fe2650b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1GY5Eip3/versions/H9MqYKJ5/Battle%20Tracks%20v1.1b.zip"
+      ],
+      "fileSize": 14395589
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",
+      "hashes": {
+        "sha512": "b7dbf46d50f4c81d793ef79068b00eb9ba3fac3c443485eb4433fe07ed37ff6ab3a77e71c9b956ddc84164f3358b021c595a231abba17ac118c09f20f2cb7fd3",
+        "sha1": "0599cd556bafd67537690ebe037bc7e4a88c2542"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5DF3hBIs/versions/pfFd0Jh4/Cobblemon%20Interface%20Modded%20v1.9.4.zip"
+      ],
+      "fileSize": 1053517
+    },
+    {
+      "path": "resourcepacks/Cobblemon Interface v1.6.0.zip",
+      "hashes": {
+        "sha512": "abdcfbebba867f7479080ca52f9ebbaecfdecd5a8b459508426f65543ade53fb8b8761b2f319a9a234167a8f24683334faaadd5134b5748d6a6f152cc9601c54",
+        "sha1": "f91aa128e036b579fc687e55f9b9a240e3fbf65a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip"
+      ],
+      "fileSize": 14108266
+    },
+    {
       "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
       "hashes": {
         "sha512": "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470",
@@ -4384,6 +4564,51 @@
         "https://cdn.modrinth.com/data/Va3BanZa/versions/OQgouS3q/E19%20Cobblemon%20Minimap%20Icons.zip"
       ],
       "fileSize": 15941923
+    },
+    {
+      "path": "resourcepacks/Emissive-Cobblemon-Ores-1.7.zip",
+      "hashes": {
+        "sha512": "288d381305cab62ba4c5e6673cd9b18a1507fff7c9921dca891f9444bb50001b6e16af46913678dfc8b01228b913d4c81808a9caf9137bbdc9c9749017bf92d7",
+        "sha1": "8bb4afe1b3b1a3b2ec5edf14367cb29860197456"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SpgcWKWY/versions/r0ix2gfK/Emissive-Cobblemon-Ores-1.7.zip"
+      ],
+      "fileSize": 803304
+    },
+    {
+      "path": "resourcepacks/Hold My Pokeballs+1.21.1.zip",
+      "hashes": {
+        "sha512": "0bb58382be49d44723345f00e0d8c73f17cb56af8249c6756124c2d7be9256791ffee4685cdac61a416ef0d6362d2a6c1151cf24b9ad8ffaf2b84f7a04a33d8b",
+        "sha1": "626d38c573037f6342487555303915afc17c4f0c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IymDcKlx/versions/qgxYCfDq/Hold%20My%20Pokeballs%2B1.21.1.zip"
+      ],
+      "fileSize": 1951896
+    },
+    {
+      "path": "resourcepacks/RCT Trainers+ [1.6] v2.1.zip",
+      "hashes": {
+        "sha512": "3b3e22864e14661652bac6632023d3294fccc84d66b54e0b6e365f1fa5d2c901ec5491662c7de6252cae6b63c777c67d992268c6411841d576a14252a1a4ba4e",
+        "sha1": "a9fc89788c172f5963adbeabcfb688846e5e46e4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ARGDWSQq/versions/2PwkXMie/RCT%20Trainers%2B%20%5B1.6%5D%20v2.1.zip"
+      ],
+      "fileSize": 4905355
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",

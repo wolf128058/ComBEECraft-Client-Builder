@@ -4491,6 +4491,21 @@
       "fileSize": 26997287
     },
     {
+      "path": "resourcepacks/Battle Tracks v1.1b.zip",
+      "hashes": {
+        "sha512": "ab7d30a9e0bb845c06d2ae72716f59b2f070bc688cc8e65c656de481bd3c85eb72695b2c5a219ecd3c009ff0b5acebe85dd9fcbf4045ce107857d7988e23baef",
+        "sha1": "47e812260fe90db2577083400e9c80822fe2650b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1GY5Eip3/versions/H9MqYKJ5/Battle%20Tracks%20v1.1b.zip"
+      ],
+      "fileSize": 14395589
+    },
+    {
       "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
       "hashes": {
         "sha512": "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470",

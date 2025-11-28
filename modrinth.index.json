@@ -4551,6 +4551,21 @@
       "fileSize": 15941923
     },
     {
+      "path": "resourcepacks/Emissive-Cobblemon-Ores-1.7.zip",
+      "hashes": {
+        "sha512": "288d381305cab62ba4c5e6673cd9b18a1507fff7c9921dca891f9444bb50001b6e16af46913678dfc8b01228b913d4c81808a9caf9137bbdc9c9749017bf92d7",
+        "sha1": "8bb4afe1b3b1a3b2ec5edf14367cb29860197456"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SpgcWKWY/versions/r0ix2gfK/Emissive-Cobblemon-Ores-1.7.zip"
+      ],
+      "fileSize": 803304
+    },
+    {
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
       "hashes": {
         "sha512": "01426ce261df8a4fa99366efe30e98656bac43ac8a71db1265edb0b49c5e4abb9ada09d6877a6c1d728244fde202f57118339d3a0503a1cbc8af88325c8d4f5a",

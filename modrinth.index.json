@@ -4506,6 +4506,21 @@
       "fileSize": 14395589
     },
     {
+      "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",
+      "hashes": {
+        "sha512": "b7dbf46d50f4c81d793ef79068b00eb9ba3fac3c443485eb4433fe07ed37ff6ab3a77e71c9b956ddc84164f3358b021c595a231abba17ac118c09f20f2cb7fd3",
+        "sha1": "0599cd556bafd67537690ebe037bc7e4a88c2542"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5DF3hBIs/versions/pfFd0Jh4/Cobblemon%20Interface%20Modded%20v1.9.4.zip"
+      ],
+      "fileSize": 1053517
+    },
+    {
       "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
       "hashes": {
         "sha512": "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470",

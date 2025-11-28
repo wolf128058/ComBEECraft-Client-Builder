@@ -3081,6 +3081,21 @@
       "fileSize": 143704
     },
     {
+      "path": "mods/mafglib-0.4.1+mc1.21.1.jar",
+      "hashes": {
+        "sha512": "9294f14cf17605bbd0af7fb54278395ad6865145d8dcf2100289128daf966cee45862a5032f5e248d70aa6aa34418d937cfac9c1c3d7ce78317531b46570a75d",
+        "sha1": "043e9c2dc77620c32da268f6e631d664e7582255"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/SKI34J7B/versions/znxhC06k/mafglib-0.4.1%2Bmc1.21.1.jar"
+      ],
+      "fileSize": 1113481
+    },
+    {
       "path": "mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
       "hashes": {
         "sha512": "56815ee76e34188cff8987d673a99fb754a7259ba697f1dd3c46788237dd0f862f46ad75f0ab7ab508869fd2381da24dc7d90ef4185664961c948aaa0a265402",

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.6-preview02",
+  "versionId": "0.0.6-preview03",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -2614,6 +2614,21 @@
         "https://cdn.modrinth.com/data/Eg3hDPUB/versions/BcmCikhC/fetzisasiandeco-neoforge-1.7.2-1.21-beta.jar"
       ],
       "fileSize": 17366800
+    },
+    {
+      "path": "mods/forgematica-0.4.1+mc1.21.1.jar",
+      "hashes": {
+        "sha512": "3a69b9664541c2ac34f7940a031271a4d8e713288060594a5563ac079f07eba8d2d3868f0243c0a5d44f0bde50d787b32efb97a7ae7ea16075bfc6bb7f577a5d",
+        "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dCKRaeBC/versions/bNQ9lJbg/forgematica-0.4.1%2Bmc1.21.1.jar"
+      ],
+      "fileSize": 1383228
     },
     {
       "path": "mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar",

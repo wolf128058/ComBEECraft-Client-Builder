@@ -49,7 +49,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["mod/the_bumblezone:resourcepacks/anti_tropophobia","vanilla","fabric","mod_resources","builtin/aether_b173_art","moonlight:merged_pack","file/Animon Voices (Ambient).zip","file/E19 Cobblemon Minimap Icons.zip","betterbeds:fancyconnectedbeds","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms","builtin/overrides/deep_aether_emissivity","vinery:bushy_leaves","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","black_icons","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","file/Battle Tracks v1.1b.zip","file/Cobblemon Interface v1.6.0.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/Emissive-Cobblemon-Ores-1.7.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/Hold My Pokeballs+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles"]
+resourcePacks:["mod/the_bumblezone:resourcepacks/anti_tropophobia","vanilla","fabric","mod_resources","builtin/aether_b173_art","moonlight:merged_pack","file/E19 Cobblemon Minimap Icons.zip","betterbeds:fancyconnectedbeds","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/uniqueshinyforms","builtin/overrides/deep_aether_emissivity","vinery:bushy_leaves","mod/mega_showdown:resourcepacks/gyaradosjumpingmega","mod/mega_showdown:resourcepacks/regionbiasmsd","builtin/aether_tooltips","black_icons","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","file/Battle Tracks v1.1b.zip","file/Cobblemon Interface v1.6.0.zip","file/Cobblemon Interface Modded v1.9.4.zip","file/Emissive-Cobblemon-Ores-1.7.zip","file/RCT Trainers+ [1.6] v2.1.zip","file/Hold My Pokeballs+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Animon Voices (Ambience).zip","file/ATM x MSD [3.0.1].zip"]
 incompatibleResourcePacks:["builtin/overrides/deep_aether_emissivity","mod/subtle_effects:resourcepacks/biome_color_water_particles"]
 lastServer:
 lang:en_us
@@ -94,7 +94,7 @@ soundCategory_record:0.0
 soundCategory_weather:0.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:0.0
+soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:0.0

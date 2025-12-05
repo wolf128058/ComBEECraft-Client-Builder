@@ -87,7 +87,7 @@ key_key.cataclysm.ability:key.keyboard.x:
 key_key.cataclysm.helmet_ability:key.keyboard.c:
 key_key.cataclysm.chestplate_ability:key.keyboard.y:
 key_key.cataclysm.boots_ability:key.keyboard.v:
-key_key.status_gui:key.keyboard.u:
+key_key.status_gui:key.keyboard.left.bracket:
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt:
 key_key.xycraft_core.modifier_key:key.keyboard.left.control:
 key_key.easy_villagers.pick_up:key.keyboard.unknown:
@@ -118,7 +118,6 @@ key_key.silentgear.displayItemProperties:key.keyboard.left.control:
 key_key.silentgear.displayTraitDescriptions:key.keyboard.left.shift:
 key_key.silentgear.displayItemConstruction:key.keyboard.left.alt:
 key_key.silentgear.openItem:key.keyboard.t:SHIFT
-key_key.curios.open.desc:key.keyboard.unknown:
 key_key.cobblemon.hideparty:key.keyboard.unknown:
 key_key.cobblemon.summary:key.keyboard.m:
 key_key.cobblemon.downshiftparty:key.keyboard.down:
@@ -131,9 +130,8 @@ key_key.apotheosis.compare_equipment:key.keyboard.left.shift:
 key_key.cobblemon_smartphone.open:key.keyboard.i:
 key_key.petyourcobblemon.toggleinteractmode:key.keyboard.unknown:
 key_key.modmenu.open_menu:key.keyboard.unknown:
+key_key.more_cobblemon_tweaks.open_config:key.keyboard.f9:
 key_tooltipoverhaul.binds.compare_bind:key.keyboard.left.shift:
-key_keybinds.bettercombat.feint:key.keyboard.unknown:
-key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:
 key_xaeroplus.setting.player_spawn_chunks:key.keyboard.unknown:
 key_xaeroplus.setting.portals:key.keyboard.unknown:
 key_xaeroplus.keybind.switch_waypoints_to_nether:key.keyboard.unknown:
@@ -180,9 +178,7 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown:
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown:
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown:
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:
-key_key.cobblemonraiddens.mouse:key.keyboard.left.alt:
-key_key.cobblemonraiddens.accept:key.keyboard.y:
-key_key.cobblemonraiddens.deny:key.keyboard.n:
+key_key.cobblemon.ridingfreelook:key.keyboard.left.alt:
 key_key.aether.open_accessories.desc:key.keyboard.unknown:
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space:
 key_key.aether.invisibility_toggle.desc:key.keyboard.unknown:
@@ -214,7 +210,7 @@ key_key.wands.wand_action:key.keyboard.keypad.0:
 key_key.wands.m_inc:key.keyboard.unknown:
 key_key.wands.wand_palette_mode:key.keyboard.unknown:
 key_key.wands.wand_invert:key.keyboard.unknown:
-key_key.wands.wand_undo:key.keyboard.unknown:
+key_key.wands.wand_undo:key.keyboard.minus:
 key_key.wands.area_diagonal_spread:key.keyboard.keypad.1:
 key_key.wands.wand_mode:key.keyboard.keypad.8:
 key_key.wands.wand_menu:key.keyboard.keypad.5:
@@ -223,7 +219,7 @@ key_key.wands.n_inc:key.keyboard.unknown:
 key_key.wands.wand_rotate:key.keyboard.keypad.9:
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:
 key_create.keyinfo.toolbelt:key.keyboard.left.alt:
-key_create.keyinfo.rotate_menu:key.keyboard.unknown:
+key_create.keyinfo.rotate_menu:key.keyboard.j:
 key_dndesires.keyinfo.saw_active:key.keyboard.left.alt:
 key_dndesires.keyinfo.drill_active:key.keyboard.left.alt:
 key_framedblocks.key.update_cull:key.keyboard.unknown:

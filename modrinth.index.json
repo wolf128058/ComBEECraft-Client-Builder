@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0-preview01",
+  "versionId": "1.0.0-preview02",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -1189,6 +1189,21 @@
         "https://cdn.modrinth.com/data/jtmvUHXj/versions/CtRim6mz/accessories-neoforge-1.1.0-beta.52%2B1.21.1.jar"
       ],
       "fileSize": 1078973
+    },
+    {
+      "path": "mods/accessories_compat_layer-neoforge-0.1.10+1.21.1.jar",
+      "hashes": {
+        "sha512": "d53e77c2650c74beb90c242eae85413d6607a4253ef55cddb4e98565786f3591c4d27f5316ecf6b9d9f1878368e0c132f670f95d7e9a9a6eb0967be297b4b5e5",
+        "sha1": "81075dd9ba87a5e2814548e9e3ab20001f0a06de"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ySnjMzLg/versions/6ocwvkgG/accessories_compat_layer-neoforge-0.1.10%2B1.21.1.jar"
+      ],
+      "fileSize": 376256
     },
     {
       "path": "mods/aces_spell_utils-1.1.18-1.21.1.jar",
@@ -4491,19 +4506,19 @@
       "fileSize": 1117442
     },
     {
-      "path": "resourcepacks/AllTheMons R3.0.zip",
+      "path": "resourcepacks/ATM x MSD [3.0.1].zip",
       "hashes": {
-        "sha512": "9c4d23d75fb6840426e297568f1cbba646598d6ee0d77e34175e428885e643f7c6524260e134cafd791298ce785647965e517116df0b45789ffe51837e7062d4",
-        "sha1": "734932a8aef4d091e53a9de849bf0fc0fada9d8a"
+        "sha512": "2d4dad0e9a97ebac71c5bb1a364a12b333404c44f8d126e66ede176e3691300a14f30969f7f7ceb0b59f617dabfe7cfdb700321c950e06e88ba921a75873dfd8",
+        "sha1": "24bf55023c90a73ee0b97cd43c18e71f6c63aa38"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/JV5dvqVX/versions/KbK2OTtL/AllTheMons%20R3.0.zip"
+        "https://cdn.modrinth.com/data/odZZdRCE/versions/Rqg2WObv/ATM%20x%20MSD%20%5B3.0.1%5D.zip"
       ],
-      "fileSize": 11054345
+      "fileSize": 8257922
     },
     {
       "path": "resourcepacks/Animon Voices (Ambience).zip",

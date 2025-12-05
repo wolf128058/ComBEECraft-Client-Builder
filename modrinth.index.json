@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.1",
+  "versionId": "1.0.2",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -949,6 +949,21 @@
         "https://cdn.modrinth.com/data/g8NOG5OR/versions/44blpeJ7/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar"
       ],
       "fileSize": 136561
+    },
+    {
+      "path": "mods/PerWorldGameRules-1.21.1-NeoForge-4.0.1.jar",
+      "hashes": {
+        "sha512": "f7a4fc93a50142b046e1f8b1fd72d68df83f67838b8432197f031e899fff3141cc91100b5f1d892507f7e61aaf0ffcfe710d6548ec75f3e18d4462aa53f9ac4a",
+        "sha1": "9fceefb429c0d531d1100b6a537ee7332143e992"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/h5p7SvF3/versions/knZUToop/PerWorldGameRules-1.21.1-NeoForge-4.0.1.jar"
+      ],
+      "fileSize": 28259
     },
     {
       "path": "mods/Perception-NEOFORGE-0.1.6+1.21.1.jar",

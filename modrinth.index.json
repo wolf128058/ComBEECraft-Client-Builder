@@ -6,6 +6,21 @@
   "summary": "",
   "files": [
     {
+      "path": "datapacks/ATM x MSD [v3.1.1].zip",
+      "hashes": {
+        "sha512": "de2d1c877bede5b96f7086d61b286582712a9ef65cc57c90d82371170fe8e6ccdb9b4e4bde645833ab7a8ef0f3a848fae57a62d9255c25d92f6533bcb3d9b58d",
+        "sha1": "7186490990329f0633ec9fea438a69381e6ffce7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/odZZdRCE/versions/kdtjENFG/ATM%20x%20MSD%20%5Bv3.1.1%5D.zip"
+      ],
+      "fileSize": 8186350
+    },
+    {
       "path": "datapacks/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip",
       "hashes": {
         "sha512": "65d97aeb98572b264badf9c19b7994853472910dc2b9da2c962525e6f635deae812b9bf7a7e1886fcdf5e72764271fa0543d9066bb43f71a60028507e6e4e35c",
@@ -4519,21 +4534,6 @@
         "https://cdn.modrinth.com/data/1eAoo2KR/versions/d5rKuZdL/yet_another_config_lib_v3-3.8.0%2B1.21.1-neoforge.jar"
       ],
       "fileSize": 1117442
-    },
-    {
-      "path": "resourcepacks/ATM x MSD [3.0.1].zip",
-      "hashes": {
-        "sha512": "2d4dad0e9a97ebac71c5bb1a364a12b333404c44f8d126e66ede176e3691300a14f30969f7f7ceb0b59f617dabfe7cfdb700321c950e06e88ba921a75873dfd8",
-        "sha1": "24bf55023c90a73ee0b97cd43c18e71f6c63aa38"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/odZZdRCE/versions/Rqg2WObv/ATM%20x%20MSD%20%5B3.0.1%5D.zip"
-      ],
-      "fileSize": 8257922
     },
     {
       "path": "resourcepacks/Animon Voices (Ambience).zip",

@@ -194,7 +194,6 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown:
 key_key.relics.active_abilities_list:key.keyboard.left.alt:
 key_key.relics.research_relic:key.keyboard.left.shift:
 key_key.observable.profile:key.keyboard.unknown:
-key_key.oritech.augment_screen:key.keyboard.g:
 key_key.utility_belt.swap_toggle:key.keyboard.q:
 key_key.utility_belt.swap_hold:key.keyboard.unknown:
 key_key.utility_belt.open_screen:key.keyboard.apostrophe:

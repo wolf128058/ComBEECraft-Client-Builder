@@ -2931,6 +2931,21 @@
       "fileSize": 254720
     },
     {
+      "path": "mods/jeed-1.21-2.3.1.jar",
+      "hashes": {
+        "sha512": "323b6223ebd210416bc51c493e3315cc687eb9d7f5aadf0aece23823e6fbacc3a92eafca6a96ded282bed5d9f20cac0a787f3634fb1be0dccaf4c7d94689a5cd",
+        "sha1": "8a791dda32b05aa8156da60d39673248f69b4a37"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EO27GKs1/versions/1jkLOmOi/jeed-1.21-2.3.1.jar"
+      ],
+      "fileSize": 156390
+    },
+    {
       "path": "mods/jei_integration_reborn-1.0.2.jar",
       "hashes": {
         "sha512": "13c79c37fd2e1f690404a3d1cc86cbd43969ebffac7ac3afe5df0d9e9cb12d01d1b9e6174bb9f74d0354f6d92d46ddb387bc6bed4f27571f8971ebc514ab2d7b",

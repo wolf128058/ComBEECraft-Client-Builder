@@ -4341,19 +4341,19 @@
       "fileSize": 518643
     },
     {
-      "path": "mods/supplementaries-1.21-3.4.20-neoforge.jar",
+      "path": "mods/supplementaries-1.21-3.5.7-neoforge.jar",
       "hashes": {
-        "sha512": "0206956afafee9846f902bd8d40b56b1707d77bfb8ae6eb1a61499860eccb897ccff81d0a64a8f99202daa2df0111998bf276dd625199129d2ce628a899b2bed",
-        "sha1": "56e352df4def87fbcd620f2d8ebd7682a0c2bb84"
+        "sha512": "d943cc1fe7505b7959fb6a88b24c3e05c3ceff664d5d98cd182598308fce01895e56901a767ca8d94e075a9d692ef7b73d23eadc613cfd4147843e3b0fdd6955",
+        "sha1": "e4cf519ffaea0bc140cc06b1125e94ff0b2d0dca"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/rEEPz2OX/supplementaries-1.21-3.4.20-neoforge.jar"
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/g0PNlHNQ/supplementaries-1.21-3.5.7-neoforge.jar"
       ],
-      "fileSize": 12413238
+      "fileSize": 13296484
     },
     {
       "path": "mods/tbcs-neoforge-1.21.1-0.13.0-beta.jar",

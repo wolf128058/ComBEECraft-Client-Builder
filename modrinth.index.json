@@ -1356,6 +1356,21 @@
       "fileSize": 132924
     },
     {
+      "path": "mods/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+      "hashes": {
+        "sha512": "fea6cf8dcfb7b0a0bd7131885b304caec475a56564c60580cd2b2352399df1fb22b5f1b3e979f8a0d2e7175c25f1581b13794e89f23e3bb4491b83f2604cbdc0",
+        "sha1": "ffb0d0a6d4300157ee1cafddd014daa9df724a80"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/K7VSm2YY/versions/gyP6Pp5h/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar"
+      ],
+      "fileSize": 118319
+    },
+    {
       "path": "mods/ae2wtlib-19.3.0.jar",
       "hashes": {
         "sha512": "477fbc6642b2f96208b99189b9fb3fb774d41587a545a35d0b417fc0321bbe944db2553f0a08d0663258500ea73c3773f7fc093af604ff1d4b579b32c7c40d69",

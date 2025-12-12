@@ -4191,19 +4191,19 @@
       "fileSize": 180622
     },
     {
-      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar",
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.16.1434.jar",
       "hashes": {
-        "sha512": "cdff944417fb9e95cdbda000fe18cfd91ab67f75e8002c4ba806472d1302501dd3b32aa24e7a4009c955cc08865de30070809b3dde8e0914c5c8537e6b6b3de7",
-        "sha1": "8a1921b46254947503b4d5a9792ec3a04d2045fe"
+        "sha512": "3886aedcc908f31d9e0d85b391ed91002d320161ac8c75fae7480511d20d56b7d42959821d3e5992c2617ebec33c210b4c733386cfc4cb8a43fa6c800fdacd7d",
+        "sha1": "877bd9c46027a0bba4ea16d0683c56a90a87deba"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TyCTlI4b/versions/6TMD1wGs/sophisticatedbackpacks-1.21.1-3.25.14.1410.jar"
+        "https://cdn.modrinth.com/data/TyCTlI4b/versions/craNnW8N/sophisticatedbackpacks-1.21.1-3.25.16.1434.jar"
       ],
-      "fileSize": 976161
+      "fileSize": 977958
     },
     {
       "path": "mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",

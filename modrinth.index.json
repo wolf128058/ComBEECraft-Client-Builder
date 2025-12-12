@@ -3486,19 +3486,19 @@
       "fileSize": 1498683
     },
     {
-      "path": "mods/notenoughanimations-neoforge-1.10.6-mc1.21.1.jar",
+      "path": "mods/notenoughanimations-neoforge-1.11.0-mc1.21.1.jar",
       "hashes": {
-        "sha512": "c16b7dcc9b74fe011f9c4ebc15e188497953b022c8f157f77e23950c8fbfc43ec38d81c65fc77735a4e5cee4556d0c329d8fb8e0939c81029098c8447ff2d8fa",
-        "sha1": "cbb5833153c362834911b20ae5665d913ded91c9"
+        "sha512": "aeb3b9b06946a112ab2116a6b701ca767d46dae01bd09043195e9389d9da81838fa17540d9cd728cb8b175ead652772b82958cb20fbd3f528da5661990f395bb",
+        "sha1": "d78b8d18b4218d8178af88e4ff5ac29368d86f98"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MPCX6s5C/versions/1o1ia1vh/notenoughanimations-neoforge-1.10.6-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/MPCX6s5C/versions/Q1MN55Bh/notenoughanimations-neoforge-1.11.0-mc1.21.1.jar"
       ],
-      "fileSize": 839618
+      "fileSize": 1928773
     },
     {
       "path": "mods/observable-5.4.4.jar",

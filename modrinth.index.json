@@ -4071,6 +4071,21 @@
       "fileSize": 406282
     },
     {
+      "path": "mods/smithingtemplateviewer-1.0.3.jar",
+      "hashes": {
+        "sha512": "701ddacf511162283f2f5ad18893f2dc848269921a027f55905fc748eda32711939212694071d6b35dec026eccad6a68e8ec704ec7cab26491ff6b93c2014686",
+        "sha1": "1ee2fa37e522b645f7b17ed28062e58aac908ae8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/oJsYTCP3/versions/50hp2wB9/smithingtemplateviewer-1.0.3.jar"
+      ],
+      "fileSize": 39663
+    },
+    {
       "path": "mods/smsn-neoforge-1.3.4-1.21.1.jar",
       "hashes": {
         "sha512": "055131ce04f496434b2e6d3f2094b859fad1db3d10e3340b2a0b480b6c53640aa1d14b11cf919a126acfa2a22375072bcbb1b458d76f5534256fe098645ce243",

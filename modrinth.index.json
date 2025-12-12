@@ -2421,34 +2421,34 @@
       "fileSize": 1561005
     },
     {
-      "path": "mods/easy_npc_bundle-6.1.0-neoforge-1.21.1.jar",
+      "path": "mods/easy_npc_bundle-6.1.2-neoforge-1.21.1.jar",
       "hashes": {
-        "sha512": "4f3c69f81fbac05ccbe74f8f25400ffc1230e7218801ab23e52a69e265b4caf0c87370f7e15aa729b04f6c343ca9822d9036d98da8345136b075c423480d6d94",
-        "sha1": "cedea0c62f7baaabce30d08c8b9e625c9cf84299"
+        "sha512": "ecf6243fd8b13b7f97969c4695bdfaab092eebca7699a75217a876c155c746fb551584ba66b31b783b236959f659bcbd948360ff3cdd3d8ee3f8e6fff3894c81",
+        "sha1": "de2c2511bd2e78ee2db5ca79f5a46a56704e8e68"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/CgGEe1h3/versions/LbyTEcZF/easy_npc_bundle-6.1.0-neoforge-1.21.1.jar"
+        "https://cdn.modrinth.com/data/CgGEe1h3/versions/i48iNvB5/easy_npc_bundle-6.1.2-neoforge-1.21.1.jar"
       ],
-      "fileSize": 1974433
+      "fileSize": 1983929
     },
     {
-      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.1.0.jar",
+      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.1.2.jar",
       "hashes": {
-        "sha512": "2a80104b2accd3f4b3432a1e6b68c7d78367a87780b857bb8f8f1d1bc9347cc8352e77e7b40b2a24c33029f918f73fd6f19424c1785b69b7f9867a875bf85927",
-        "sha1": "af992e1fbff6853e251f52901282557948f27e80"
+        "sha512": "29c2cc03515d40937af512a90149ff4790577821c9262458142bd7791519e563c70709445dcdac082575c4d09ea0da371d4571cba2ded7fbfb35f3c15c73a5a6",
+        "sha1": "cffc76b52e2403b820d514aee76da64706d8fd16"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uTGjf7vA/versions/nwQ8MthQ/easy_npc_config_ui-neoforge-1.21.1-6.1.0.jar"
+        "https://cdn.modrinth.com/data/uTGjf7vA/versions/vDhxoabN/easy_npc_config_ui-neoforge-1.21.1-6.1.2.jar"
       ],
-      "fileSize": 651404
+      "fileSize": 651334
     },
     {
       "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",

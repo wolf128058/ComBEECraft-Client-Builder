@@ -786,6 +786,21 @@
       "fileSize": 24037
     },
     {
+      "path": "mods/JEIModelBridge-21.1.0.jar",
+      "hashes": {
+        "sha512": "57fd6129bf765420ac6f534405462b54a7ec3cc2068e56a484d67774a600c1944e835b126bfb28e710d148cd7292578874f036cee114debd89fab1d68bf8c61a",
+        "sha1": "d641eaeb9a2f0d58ca8170846e35b58d15a95814"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4b0SvHCC/versions/hSQqzmMg/JEIModelBridge-21.1.0.jar"
+      ],
+      "fileSize": 12535
+    },
+    {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.3.jar",
       "hashes": {
         "sha512": "351926187c564d1f2bae2f084c77f80fe850dc90837153ef01506c049f16b02307196ed383ae25cd334530106aa741b12dd90f5e1b205439fde2b74d09274bc0",

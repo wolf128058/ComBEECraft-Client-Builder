@@ -1,0 +1,62 @@
+[
+  {
+    "alias": "Simplylight",
+    "id": 300331,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "GatewaysToEternity",
+    "id": 417802,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft core",
+    "id": 653786,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft world",
+    "id": 653789,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft override",
+    "id": 653790,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft machines",
+    "id": 653791,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "irons spellbooks",
+    "id": 855414,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "productive farming",
+    "id": 944463,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "cobblegengalore",
+    "id": 1108467,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Save My Shaky Network",
+    "id": 1129397,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "productivemetalworks",
+    "id": 1184570,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "sgearmetalworks",
+    "id": 1199188,
+    "path": "overrides/mods"
+  }
+]

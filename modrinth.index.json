@@ -3456,6 +3456,21 @@
       "fileSize": 317326
     },
     {
+      "path": "mods/neo_language_reload-1.0.0.jar",
+      "hashes": {
+        "sha512": "60da0468c8d7d0985b4bce61371a6a984cf013e6430ef3f3a860abecac343ae80fd67ff4790bca8ab6df2982fcf4365a0ec8a984fa457aa1afb31bc4a9740dac",
+        "sha1": "6e98066515853318d1b760bed021045884d5c9ca"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QdvyilOW/versions/5xtkKZiA/neo_language_reload-1.0.0.jar"
+      ],
+      "fileSize": 72381
+    },
+    {
       "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
       "hashes": {
         "sha512": "1251195e45340b475b6ee8ea7712b33d9f5f84c87ec1f783e6276b12fc93cec877cefcfb083758395d09da5a890de5c659bbb1357e7092d5c70567b22629038e",

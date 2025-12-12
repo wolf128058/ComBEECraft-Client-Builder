@@ -786,6 +786,21 @@
       "fileSize": 74419
     },
     {
+      "path": "mods/JustEnoughBeacons-NeoForge-1.21-1.3.0.jar",
+      "hashes": {
+        "sha512": "20040c02ca2dbf410156357e0a818270cf797b05a8b7611d07b28bc16da26fab014bee4fe2f2267968430da0bb6602064184fb0d1d09421f1e955799e5533437",
+        "sha1": "654ccc6863fd35f6b73d43db468b72606a461df5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fgqpjvEk/versions/NXAVgiee/JustEnoughBeacons-NeoForge-1.21-1.3.0.jar"
+      ],
+      "fileSize": 254318
+    },
+    {
       "path": "mods/Kiwi-1.21.1-NeoForge-15.7.5.jar",
       "hashes": {
         "sha512": "19624947a867e1e8881f9644dd058a6c0cddaf5ff38df4e4803927aabf072c9b27f4d660760a2c3c56cd36678d1001c97724579b7a095778ef295aadd19e637e",

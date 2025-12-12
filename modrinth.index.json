@@ -4266,19 +4266,19 @@
       "fileSize": 3642581
     },
     {
-      "path": "mods/spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar",
+      "path": "mods/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
       "hashes": {
-        "sha512": "26a996b6c8eb1335ac1198f95d07faecaf241c78eb7249fdac890daad258fca60df87e4d9f430a9a7de69cbb711361b5552d167db177d75e1c3b7e71545d67ff",
-        "sha1": "d7b36bdbcc52743023043fc1dafb5aee0e4a43ba"
+        "sha512": "4b9413baae8a9cffbf3389ec9e8a507a085e0d19026b73aced6f4e430a5d3ecb846173a25f606a5fa4b1eac6254913a900417ed3c3911c652f4f31865db01c3b",
+        "sha1": "d8d38a01b2e46db2dfd393a946bb02a31edbcd7c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zrzYrlm0/versions/uOUZcu68/spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar"
+        "https://cdn.modrinth.com/data/zrzYrlm0/versions/dXw74N2Q/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar"
       ],
-      "fileSize": 220435
+      "fileSize": 223524
     },
     {
       "path": "mods/status-fabric-1.21.1-1.0.8.jar",

@@ -936,19 +936,19 @@
       "fileSize": 798485
     },
     {
-      "path": "mods/MysticalAgriculture-1.21.1-8.0.20.jar",
+      "path": "mods/MysticalAgriculture-1.21.1-8.0.21.jar",
       "hashes": {
-        "sha512": "a9e07d8e0b2a64cbb0c5333ee113af888f90df07471629a93e27865031278ef289d42b0814a769948879d4532d6482d614a4d6292a358549c0121b769242ad09",
-        "sha1": "e8e554af113970624001bd2bad1c154d09a44a9c"
+        "sha512": "b8a518549d4203aff80bda993f0e896c3cb4a05702eec4e250c201fd633786799a27af665c6ecae9d50a92d32ba2bfa108d72195cb24c03b9710c9243fa9780d",
+        "sha1": "759e86b6434d187a5bc0c592d3f5b6196f4b946c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/C95ReXie/versions/6hGQMSH6/MysticalAgriculture-1.21.1-8.0.20.jar"
+        "https://cdn.modrinth.com/data/C95ReXie/versions/DpjotSE9/MysticalAgriculture-1.21.1-8.0.21.jar"
       ],
-      "fileSize": 2315363
+      "fileSize": 2329752
     },
     {
       "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",

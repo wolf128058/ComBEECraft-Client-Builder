@@ -2616,19 +2616,19 @@
       "fileSize": 757756
     },
     {
-      "path": "mods/entityculling-neoforge-1.9.3-mc1.21.1.jar",
+      "path": "mods/entityculling-neoforge-1.9.4-mc1.21.1.jar",
       "hashes": {
-        "sha512": "12ebb7b46088a5603b18759a33c0be0b92629c86336f309be41d510c35ae05a1b359facb2993f51e950d71daf6f3506d8d1952a6704b3dfee8d398261e82ed88",
-        "sha1": "dffecdb172ec6fefb27e68ebd7192b2416d56da9"
+        "sha512": "1c97bcda9ff59b772b89f47beda8c60d08af26984d416af0a065c55b2586f770800e97a7c112bee6debb0cc012697770b62da771b25401be0ec2460476731a8a",
+        "sha1": "d265fdd6f8c052873f098b7acd5db7617f6d7bc0"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/aymdvJn6/entityculling-neoforge-1.9.3-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/p1xJ9gcC/entityculling-neoforge-1.9.4-mc1.21.1.jar"
       ],
-      "fileSize": 474485
+      "fileSize": 1563532
     },
     {
       "path": "mods/explore_ruins_aether-1.0.0-neoforge-1.21.1.jar",

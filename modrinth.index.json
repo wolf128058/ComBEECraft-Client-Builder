@@ -4206,34 +4206,34 @@
       "fileSize": 977958
     },
     {
-      "path": "mods/sophisticatedcore-1.21.1-1.3.89.1239.jar",
+      "path": "mods/sophisticatedcore-1.21.1-1.3.91.1272.jar",
       "hashes": {
-        "sha512": "66ac39edb376ffef91c23a89d40db8ecf42dc1e8603a8103babee4a25e4f12402f6a0b6a82a2de838d60bc5848a2497e2558e60a8a724ff4f1844ec484168af5",
-        "sha1": "98bc203937cf0b08015ea8ebfbdba5518284886a"
+        "sha512": "addea03028c006eaf5b270384a364dae9a3b06a780af2eb7c71889b91ee651c3e92e8ac45224860601a54ee52436d67c9c54ad0e479c574e155d0107386fc4f7",
+        "sha1": "e59facb82b0b715f9b57a2f21a1031eaf11aff1b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmoqTijg/versions/fmCASdlT/sophisticatedcore-1.21.1-1.3.89.1239.jar"
+        "https://cdn.modrinth.com/data/nmoqTijg/versions/jO8S8zga/sophisticatedcore-1.21.1-1.3.91.1272.jar"
       ],
-      "fileSize": 1485310
+      "fileSize": 1486473
     },
     {
-      "path": "mods/sophisticatedstorage-1.21.1-1.5.16.1369.jar",
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.16.1380.jar",
       "hashes": {
-        "sha512": "5d6c3a8bf784b38a741f5b43aff9256debb0f22049075ddbd2fc87b552d64a237aa54cdd331edfbab2fb974d575de9d48fe8454fcacf9ded635e52e5fd0f8739",
-        "sha1": "0c1d7b1a7397dc7e6e87111f4a45de549330fc48"
+        "sha512": "939fbac44f0bd02636a9136b0b84613467d2b4d01c9fce9c2fed91d77ae72a95c1c7ba6009fde553926ac7d4a97f63d7dbdcb783ddca893a5342b724974542d4",
+        "sha1": "1feaa2dce466f26963831e27c2cfd84588f03bf5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hMlaZH8f/versions/cIQHEofy/sophisticatedstorage-1.21.1-1.5.16.1369.jar"
+        "https://cdn.modrinth.com/data/hMlaZH8f/versions/EE4qQiEE/sophisticatedstorage-1.21.1-1.5.16.1380.jar"
       ],
-      "fileSize": 1652858
+      "fileSize": 1653164
     },
     {
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",

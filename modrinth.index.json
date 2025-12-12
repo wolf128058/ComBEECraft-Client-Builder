@@ -4581,21 +4581,6 @@
       "fileSize": 7646
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar",
-      "hashes": {
-        "sha512": "bec8d66c49034a4acacd69a08f56444f8561e7d64570ccde0d9401389927fe41b4fe6cc8b055395286bc3f2d38abac5a57ac3b304f220042ed7c4d5e10275e97",
-        "sha1": "61c9d5935b77a42bd56c5790a8f4c938f671893a"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/d5rKuZdL/yet_another_config_lib_v3-3.8.0%2B1.21.1-neoforge.jar"
-      ],
-      "fileSize": 1117442
-    },
-    {
       "path": "resourcepacks/ATM x MSD [v3.1.1LM].zip",
       "hashes": {
         "sha512": "4a0257a974b3180f7c07f9edce2083c3a3e301668cd1acd9666c8c21514d0014af05a4fab27ff953eaabd70c989f8859ef06f55b464e1e28e91589866330425a",

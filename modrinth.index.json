@@ -2556,6 +2556,21 @@
       "fileSize": 316330
     },
     {
+      "path": "mods/fabric-api-0.116.7+1.21.1.jar",
+      "hashes": {
+        "sha512": "0d7bf97e516cfdb742d7e37a456ed51f96c46eac060c0f2b80338089670b38aba2f7a9837e5e07a6bdcbf732e902014fb1202f6e18e00d6d2b560a84ddf9c024",
+        "sha1": "79e9f3e82499fbae5bd667b96a79927ae68f90eb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/m6zu1K31/fabric-api-0.116.7%2B1.21.1.jar"
+      ],
+      "fileSize": 2424884
+    },
+    {
       "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
       "hashes": {
         "sha512": "9cc6ec387bce1a68f07b08bf1a2a65dc49ad409070f8cf58147d3cdbb9b82300d4a7184e01cf58a82886fb57156e6875b2cf7c4abb15335f8fd15be1de58400f",

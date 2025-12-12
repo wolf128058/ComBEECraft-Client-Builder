@@ -4446,21 +4446,6 @@
       "fileSize": 259276
     },
     {
-      "path": "mods/vanillabackport-neoforge-1.21.1-1.1.5.1.jar",
-      "hashes": {
-        "sha512": "d041d6e75e1ee1fb1473c333eb7a3a63ea2209bb370298a1210314eabd0b1a69ddfd2def502418e0f9d27cc65bc7400c155b638c0fbf387af9047d90a2e35f18",
-        "sha1": "0a932acc8d15e32c727fb61f99cabef7bfe63c1f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/6xwxDTgf/versions/FziQWhG6/vanillabackport-neoforge-1.21.1-1.1.5.1.jar"
-      ],
-      "fileSize": 27117699
-    },
-    {
       "path": "mods/voicechat-neoforge-1.21.1-2.6.6.jar",
       "hashes": {
         "sha512": "ce2b4464034c3cb85df73bebd6bfcdc9c4cfa4a26bbb90ac327e3d08a2880207c46ffa7ecf5e6f0b6f41a63338e70085f1c0f0ea582cf615ccb7c4e60d98cc20",

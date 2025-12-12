@@ -4626,19 +4626,19 @@
       "fileSize": 1117442
     },
     {
-      "path": "resourcepacks/Animon Voices (Ambience).zip",
+      "path": "resourcepacks/Animon Voices (Ambient).zip",
       "hashes": {
-        "sha512": "690c106d43517470490a05b272b599e69a0462370a412f19e1f8929b543fbb50e0577a93b3e0948f2eedd427fa6e3d1b0ce65c7ac368380ce68f80d64a04c3aa",
-        "sha1": "45bf7193397143c40f2bba75c84a0383f7b2b200"
+        "sha512": "79ffc5b38e72066d557fcfe22b76de31f201bef3ee21996a5f6142dd40f917f0a4746030f40c4b94cb45696c59b038982b6a350ceb921aafb40abf44cc4e4746",
+        "sha1": "b3555444f8aa94b3ad0ff05cba7d3ecc0efb01a2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yjNxo1Br/versions/ZHFEfINU/Animon%20Voices%20%28Ambience%29.zip"
+        "https://cdn.modrinth.com/data/yjNxo1Br/versions/KEhLAvqo/Animon%20Voices%20%28Ambient%29.zip"
       ],
-      "fileSize": 27290699
+      "fileSize": 27758491
     },
     {
       "path": "resourcepacks/Battle Tracks v1.1b.zip",

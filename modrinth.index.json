@@ -2571,19 +2571,19 @@
       "fileSize": 81847
     },
     {
-      "path": "mods/entity_model_features_1.21-neoforge-3.0.6.jar",
+      "path": "mods/entity_model_features_1.21-neoforge-3.0.7.jar",
       "hashes": {
-        "sha512": "cf3d51dd3e15a356b3ca6cd26784e3ed29caf7069a79c0c61f95cf1410cb458dc319a4d739c7ddac641fd217e5c79bb82ae528aa6909ffb697fa9745bab526e2",
-        "sha1": "5d1f44390202c34df9056da00fca1e5e7754f435"
+        "sha512": "f429aadddb3723a9bb4056e13dfd2c7dca1c6af471c11066eb6bafe72d25758c58897229b6a4aae4898cb3cef0db252844d0eaa14033acc67438ae8640cbaaa7",
+        "sha1": "f99ae3a4701a2ae822dbbc5cf1eab49aff0c2777"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/AWNPYFdy/entity_model_features_1.21-neoforge-3.0.6.jar"
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/sKRcyJZ6/entity_model_features_1.21-neoforge-3.0.7.jar"
       ],
-      "fileSize": 471683
+      "fileSize": 474594
     },
     {
       "path": "mods/entity_sound_features_1.21-neoforge-0.7.1.jar",

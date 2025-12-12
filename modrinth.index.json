@@ -261,19 +261,19 @@
       "fileSize": 373240
     },
     {
-      "path": "mods/CobbleFurnies-neoforge-0.6.3.jar",
+      "path": "mods/CobbleFurnies-neoforge-1.0.jar",
       "hashes": {
-        "sha512": "48806f8439bb35abb431627e0276bcae11bc19e1dbe63993480bc30d4e03b2dfe1f35f8f9f53d2517db126935a8a8c76abf8ec44283aeb027304ae1fadddf966",
-        "sha1": "a1e22e0ec92f0d0e30aaa7101d196b88e4dd1c43"
+        "sha512": "e48e5a50af44d832ef50ea49dabb6508cd42ac6309ff637ab156b36911b6683be6f1a90bc0c8d2df0dd04cf1073d1b334dc58a26b812dfa1034292c7ceba71ce",
+        "sha1": "e84f37a6b7dff613a0ffbd1273cbbc637d39c4c7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/AXY1OO9m/versions/uEagpdSk/CobbleFurnies-neoforge-0.6.3.jar"
+        "https://cdn.modrinth.com/data/AXY1OO9m/versions/Q8EbTwPC/CobbleFurnies-neoforge-1.0.jar"
       ],
-      "fileSize": 1634521
+      "fileSize": 2325678
     },
     {
       "path": "mods/Cobblemon-neoforge-1.7.1+1.21.1.jar",

@@ -1896,21 +1896,6 @@
       "fileSize": 60170
     },
     {
-      "path": "mods/collective-1.21.1-8.13.jar",
-      "hashes": {
-        "sha512": "20ade6d666440659d38ec43202624993f47681a844c7f9e3e66a462e9f88f5d98bdd9a0a26278b1ed94bd4836b3c9cdbcfef73ad8515555f239e84bfea45d938",
-        "sha1": "a31359f980453a838a7e854d86f485314fda91ad"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/e0M1UDsY/versions/VTg6femX/collective-1.21.1-8.13.jar"
-      ],
-      "fileSize": 946726
-    },
-    {
       "path": "mods/comforts-neoforge-9.0.4+1.21.1.jar",
       "hashes": {
         "sha512": "c1fcb536f1a311876c09c9b42b43f599115bcd14bbbbc22d56c5ba8ec72f9e32d84661f0f2f1abbfa19d085f3798ce471b3d89e396f1656a2c57edf2ec8cc3dd",

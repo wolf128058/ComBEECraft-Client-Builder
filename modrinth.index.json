@@ -4296,19 +4296,19 @@
       "fileSize": 508502
     },
     {
-      "path": "mods/storagedelight-25.06.24-1.21-neoforge.jar",
+      "path": "mods/storagedelight-25.12.09-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "9d533883378f701c8501cb7b0a5fb0269733311e052d2ea2d90d9cd6a21d7bb37aba324094c39f04cfed57f64feb3f7174edea0c73d0b72950ca5fdd82a161f5",
-        "sha1": "c29f16bf47aff5b711d1db0f50a45f3efb21e3da"
+        "sha512": "e19fcc9d8e0b4e3b6131da89f8f59afa5fbcd3b8ac0226b15703198fdc2d5a82bd4166459df887f07921609435aa9ad3351c2854a171eeb8b5dd52a55d6fda6f",
+        "sha1": "b61e8454f99d4e18730ac3e2a2c51c618c4c548a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LTTvOp5L/versions/FMxmvSzX/storagedelight-25.06.24-1.21-neoforge.jar"
+        "https://cdn.modrinth.com/data/LTTvOp5L/versions/EqOVv3RL/storagedelight-25.12.09-1.21-neoforge.jar"
       ],
-      "fileSize": 472865
+      "fileSize": 649502
     },
     {
       "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",

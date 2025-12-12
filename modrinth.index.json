@@ -3951,21 +3951,6 @@
       "fileSize": 2752737
     },
     {
-      "path": "mods/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
-      "hashes": {
-        "sha512": "e33cf111802b32b433c63c61c957cc136b6e52375ad31b5c81ea5826a32a3a0b37e81fcd22a7fcb4a867efddd4afc6c5628f69a656eee4ebcf14ad2e003f4e50",
-        "sha1": "be89d697455f04a1531ed81b45bcc038354430c8"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/rBEndPUc/versions/ZHAIRSeF/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar"
-      ],
-      "fileSize": 376851
-    },
-    {
       "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "hashes": {
         "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87",

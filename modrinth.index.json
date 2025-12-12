@@ -4446,6 +4446,21 @@
       "fileSize": 3778634
     },
     {
+      "path": "mods/trinkets-3.10.0.jar",
+      "hashes": {
+        "sha512": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
+        "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
+      ],
+      "fileSize": 272944
+    },
+    {
       "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",
       "hashes": {
         "sha512": "656cd5746fe1b3a2cc7c516619d9f88556f37387e672bb0f362c8aecefc6f1d06705d3a84564c8779856fbbf69fee67b6038a24ffcf46f36f2c478a1aff43a57",

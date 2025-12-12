@@ -6,21 +6,6 @@
   "summary": "",
   "files": [
     {
-      "path": "datapacks/ATM x MSD [v3.1.1LM].zip",
-      "hashes": {
-        "sha512": "4a0257a974b3180f7c07f9edce2083c3a3e301668cd1acd9666c8c21514d0014af05a4fab27ff953eaabd70c989f8859ef06f55b464e1e28e91589866330425a",
-        "sha1": "76b8117292d69f23ed072f1b73bd8713363dd90c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/odZZdRCE/versions/8OLJK7Di/ATM%20x%20MSD%20%5Bv3.1.1LM%5D.zip"
-      ],
-      "fileSize": 8166204
-    },
-    {
       "path": "datapacks/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip",
       "hashes": {
         "sha512": "65d97aeb98572b264badf9c19b7994853472910dc2b9da2c962525e6f635deae812b9bf7a7e1886fcdf5e72764271fa0543d9066bb43f71a60028507e6e4e35c",

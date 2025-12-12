@@ -3246,19 +3246,19 @@
       "fileSize": 1012915
     },
     {
-      "path": "mods/mcw-lights-1.1.2-mc1.21.1neoforge.jar",
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
       "hashes": {
-        "sha512": "de9d1b636de31ea6aa12589d6db0bbe706c8b3953fcd8d60aa163eb044d6919ee4e21abeca099b07f489789236b108e15cf39144ec9860b068e3598228a4d2a3",
-        "sha1": "9cd16bf9393e8754eb10ddb89b5b3a8b228ce2b4"
+        "sha512": "a6e1c4419b70a3f9225ad03daafca22c8a7da432ec4939b8029455927e3b44683a20e89a3299da78f124d0438e188dad3735d2018a931ad4d553ec9d3b83a9ca",
+        "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/w4an97C2/versions/iqA6aZjj/mcw-lights-1.1.2-mc1.21.1neoforge.jar"
+        "https://cdn.modrinth.com/data/w4an97C2/versions/5U2kQZIL/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
       ],
-      "fileSize": 517577
+      "fileSize": 525744
     },
     {
       "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",

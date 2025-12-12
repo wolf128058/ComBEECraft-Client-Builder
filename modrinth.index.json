@@ -3291,6 +3291,21 @@
       "fileSize": 777742
     },
     {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "hashes": {
+        "sha512": "51533899b5e64610a642ee9e9d89eb9f193d0877a8cba16d3bfa262789334c864128b01757bff9d3db2718bd3df1fc177f9b2d45b84f06fc0a6ee15474af2fac",
+        "sha1": "1ee43d693c821efc955a74e551f94372af90a140"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+      ],
+      "fileSize": 529082
+    },
+    {
       "path": "mods/mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar",
       "hashes": {
         "sha512": "afff7c3fb8efa4869bc93386ee7a28c273ce3a4dfa0cfed2ca20fd37c194cfebf7f05a241ca4f1ecc4f429d103b58295fcaebf8f119f1539fbbdc3d27a909e79",
@@ -3319,21 +3334,6 @@
         "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
       ],
       "fileSize": 1784829
-    },
-    {
-      "path": "mods/mcw-stairs-1.0.1-1.21.1neoforge.jar",
-      "hashes": {
-        "sha512": "49e7ad67a52eb54ffa49c1a40b0e51f9b9e40d4bd0bc78077290b75b55d20da3de966a75c93ace60308373434e866703c4624d7bd533310c650e0f797a079f44",
-        "sha1": "d08508817e66198305444d97ad9be681c76c4330"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/iP3wH1ha/versions/KJxX9n2H/mcw-stairs-1.0.1-1.21.1neoforge.jar"
-      ],
-      "fileSize": 516062
     },
     {
       "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",

@@ -4086,21 +4086,6 @@
       "fileSize": 39663
     },
     {
-      "path": "mods/smsn-neoforge-1.3.4-1.21.1.jar",
-      "hashes": {
-        "sha512": "055131ce04f496434b2e6d3f2094b859fad1db3d10e3340b2a0b480b6c53640aa1d14b11cf919a126acfa2a22375072bcbb1b458d76f5534256fe098645ce243",
-        "sha1": "657b978c32918ca1f9e744375432f14bd69906bf"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/oXzIQwRj/versions/hxzMgqak/smsn-neoforge-1.3.4-1.21.1.jar"
-      ],
-      "fileSize": 89832
-    },
-    {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
       "hashes": {
         "sha512": "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b",

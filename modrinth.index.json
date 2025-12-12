@@ -4431,19 +4431,19 @@
       "fileSize": 6128519
     },
     {
-      "path": "mods/trainutilities-neoforge-3.0.0.jar",
+      "path": "mods/trainutilities-neoforge-3.0.1.jar",
       "hashes": {
-        "sha512": "d6a9910fa5271a026541c2ae33db617508d148f75ea96030ecf53acab36e4c1bad6a8995b0acf81f17ee0b44f507d2fa5a79dd73b20debf8afa8d301e5794e08",
-        "sha1": "9f02c08d97907d84f776c02ec81eff13486bd90d"
+        "sha512": "94063cbe07239ad2ac9d5bfe6480f8ef359fe56b61ab772f71672c2fb4c0989ae081f4defe99b5cd109ec0777389f020381fe2a933b01b04eafdfce48f4750c4",
+        "sha1": "978ef41dfeb79d43e1d0f2409bfc546263b3b2cf"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kVIxLqso/versions/yS7ARA5A/trainutilities-neoforge-3.0.0.jar"
+        "https://cdn.modrinth.com/data/kVIxLqso/versions/ov2Un5ez/trainutilities-neoforge-3.0.1.jar"
       ],
-      "fileSize": 3739809
+      "fileSize": 3778634
     },
     {
       "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",

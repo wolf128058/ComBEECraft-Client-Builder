@@ -3306,19 +3306,19 @@
       "fileSize": 529082
     },
     {
-      "path": "mods/mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar",
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
       "hashes": {
-        "sha512": "afff7c3fb8efa4869bc93386ee7a28c273ce3a4dfa0cfed2ca20fd37c194cfebf7f05a241ca4f1ecc4f429d103b58295fcaebf8f119f1539fbbdc3d27a909e79",
-        "sha1": "37b1049de62b28c3c539b5f6fc6fae78306606bd"
+        "sha512": "7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f",
+        "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/C7I0BCni/versions/IbVRByqd/mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar"
+        "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
       ],
-      "fileSize": 1263264
+      "fileSize": 1261268
     },
     {
       "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",

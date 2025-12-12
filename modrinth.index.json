@@ -4521,21 +4521,6 @@
       "fileSize": 35022
     },
     {
-      "path": "mods/utility-belt-neoforge-2.6.0+1.21.1.jar",
-      "hashes": {
-        "sha512": "8a37cba6dbe5b71e5c6976839589c91f4cbd545e94963c8bedc70a50cda913d3ee857bfb47fafe75b0b0222e082e315499a02751417bfaecefd81f5ab7ed482c",
-        "sha1": "9a3c058d8ed57c9b7a9ef6f274d1089f5a86b0cc"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9ewe2JHJ/versions/PJ53nUMm/utility-belt-neoforge-2.6.0%2B1.21.1.jar"
-      ],
-      "fileSize": 259276
-    },
-    {
       "path": "mods/voicechat-neoforge-1.21.1-2.6.6.jar",
       "hashes": {
         "sha512": "ce2b4464034c3cb85df73bebd6bfcdc9c4cfa4a26bbb90ac327e3d08a2880207c46ffa7ecf5e6f0b6f41a63338e70085f1c0f0ea582cf615ccb7c4e60d98cc20",

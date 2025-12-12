@@ -2301,21 +2301,6 @@
       "fileSize": 323779
     },
     {
-      "path": "mods/dragonlib-neoforge-1.21.1-2.2.24.jar",
-      "hashes": {
-        "sha512": "fd2dab41559acc69644005553eb1c5cc461ba1d12214455354ebabc81fe04405784df9f43f5128577c1f0beed19a8d488bf7e5e3708d8f804a57e84f1581b0a1",
-        "sha1": "79f1933780d27ed53506ea8b249d440221e427f0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/sbIsGaOV/versions/Pg8xP8vM/dragonlib-neoforge-1.21.1-2.2.24.jar"
-      ],
-      "fileSize": 1385926
-    },
-    {
       "path": "mods/dungeons+-1.10.1.jar",
       "hashes": {
         "sha512": "67ce3e05dc6bda5a487cb594388a64f39737ef6b2b428fd1b0abb0e0f83b29444c1044d2186810671e6f5ac07428386d58484148721b551614e3641730721864",

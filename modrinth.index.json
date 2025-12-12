@@ -3636,21 +3636,6 @@
       "fileSize": 29233
     },
     {
-      "path": "mods/platform-neoforge-1.21.1-1.2.11.3.jar",
-      "hashes": {
-        "sha512": "d82b71d2a44d180509b4eee3bba3a372b81e8a003c5b1da0438f58e90db6b441e6b1abfea9874ae8e459811fee5ce6d8bfe85c807e7091240af050b993862e4e",
-        "sha1": "abd9437448d930c62871fd214ff37a3a6c74da60"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/i6fiqm5y/versions/Idu0kQLR/platform-neoforge-1.21.1-1.2.11.3.jar"
-      ],
-      "fileSize": 488718
-    },
-    {
       "path": "mods/player-animation-lib-forge-2.0.1+1.21.1.jar",
       "hashes": {
         "sha512": "1b6fdeec973d36fed687d27af05c1ea8467564b21b8f884a0de8cf97e8a8f91d5e7b0cffaa3a687a7341f2357dae8c47e989e2bba44cd3fbb9d90726207f427b",

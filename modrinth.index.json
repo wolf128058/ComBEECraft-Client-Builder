@@ -816,6 +816,21 @@
       "fileSize": 24449
     },
     {
+      "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "hashes": {
+        "sha512": "9a4f8c32e65d5f9451edcf1a584b22b9f590dab2cfb3efb68ef2b4c042d8ff39dcfdaddba0a9d615c7af4ecfa1cefda417c8972d7dcb54e574837ec81d6939b0",
+        "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uEfK2CXF/versions/TgNFki8j/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+      ],
+      "fileSize": 292088
+    },
+    {
       "path": "mods/Kiwi-1.21.1-NeoForge-15.7.5.jar",
       "hashes": {
         "sha512": "19624947a867e1e8881f9644dd058a6c0cddaf5ff38df4e4803927aabf072c9b27f4d660760a2c3c56cd36678d1001c97724579b7a095778ef295aadd19e637e",

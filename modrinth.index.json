@@ -846,21 +846,6 @@
       "fileSize": 1530397
     },
     {
-      "path": "mods/L_Ender's Cataclysm 1.21.1-3.16.jar",
-      "hashes": {
-        "sha512": "0289605e6e1c6e276eb58e160994b63155e049ec57dc672779d4630858f4d35c80254f11ef16ccf9cc7d18f70db19a2214e87c702933958fa275bc023c02bf4d",
-        "sha1": "33dabb2e3ee9dd2490559e53893d1f1451194160"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/46KJle7n/versions/FSm3cpWc/L_Ender%27s%20Cataclysm%201.21.1-3.16.jar"
-      ],
-      "fileSize": 138071302
-    },
-    {
       "path": "mods/Mekanism-1.21.1-10.7.17.83.jar",
       "hashes": {
         "sha512": "df8de81d0c57894e4965ad39aa7468576a95007d07de96d021b9d0a89ba82b2da53beeda590a21f665e57dd358c7c88c3382f2eea0d678d18a58f9519d352886",

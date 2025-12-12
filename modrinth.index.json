@@ -3426,6 +3426,21 @@
       "fileSize": 1475428
     },
     {
+      "path": "mods/more-enchantment-info-0.3.0.jar",
+      "hashes": {
+        "sha512": "54b1b4317ed8e169b641bf1c176de6e8dbbdffd3236ccd23061ed6006900cb608c2185aa768b6d2daaf5461162112e4f84e3b6e5a1b0915c77910f71c87c6517",
+        "sha1": "1a535ab41916fc885e63247e6a424801ba92af76"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TIo1UXXV/versions/46MhKH74/more-enchantment-info-0.3.0.jar"
+      ],
+      "fileSize": 219686
+    },
+    {
       "path": "mods/morerelics-1.5.2-1.21.1.jar",
       "hashes": {
         "sha512": "15bc5d4f8bf669266a6a7edada586ac5c521f71a269445186fdf9ec24e3c59c419174dcab97cba7331e0e0ea1036825f74af9744f1fbddbdb78330bec9071740",

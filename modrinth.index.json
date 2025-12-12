@@ -2286,6 +2286,21 @@
       "fileSize": 458075
     },
     {
+      "path": "mods/dimensional-inventories-2.1.0+1.21.1.jar",
+      "hashes": {
+        "sha512": "08a1ef6d6632d361d89e938eb624b3807ad2c143ff35638af00d93e5572e0123c69790dfbac0c625c399d540d55c90d5a2612309a68fb7024c77b5981401bc36",
+        "sha1": "678b93d9171d2bba79f5ffbf8a2fa9a35d216de4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gDomXOB6/versions/6WLZjHli/dimensional-inventories-2.1.0%2B1.21.1.jar"
+      ],
+      "fileSize": 323779
+    },
+    {
       "path": "mods/dragonlib-neoforge-1.21.1-2.2.24.jar",
       "hashes": {
         "sha512": "fd2dab41559acc69644005553eb1c5cc461ba1d12214455354ebabc81fe04405784df9f43f5128577c1f0beed19a8d488bf7e5e3708d8f804a57e84f1581b0a1",

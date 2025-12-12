@@ -651,19 +651,19 @@
       "fileSize": 4283953
     },
     {
-      "path": "mods/Geophilic v3.4.4 f15-88.mod.jar",
+      "path": "mods/Geophilic v3.4.5.mod.jar",
       "hashes": {
-        "sha512": "1c7a424e0491a1e3d3dedc2a867cf10b8b0582b89b4a813a372a3a89ca89978610eb330305bc2ac041fb64c47fe5109cc35db79c8e711204e64cf5197db202fb",
-        "sha1": "744c89e81b2312edfd842253a5b5980b0a011ebd"
+        "sha512": "69eeeb0b02926d08fa56ebd0927c37dc6d1b3a41c2b88c84256ff53d04b93632bf122259693196da201f9364a48625ad2906bda023085471966fe7138b19ae3b",
+        "sha1": "0a8373d58ee3e5a580d8710a688cd58b28f9f81b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hl5OLM95/versions/kaxg8ywB/Geophilic%20v3.4.4%20f15-88.mod.jar"
+        "https://cdn.modrinth.com/data/hl5OLM95/versions/FdVH8Irc/Geophilic%20v3.4.5.mod.jar"
       ],
-      "fileSize": 713996
+      "fileSize": 750576
     },
     {
       "path": "mods/Glodium-1.21-2.2-neoforge.jar",

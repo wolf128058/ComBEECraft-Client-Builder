@@ -4071,19 +4071,19 @@
       "fileSize": 1447606
     },
     {
-      "path": "mods/skinlayers3d-neoforge-1.9.2-mc1.21.1.jar",
+      "path": "mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
       "hashes": {
-        "sha512": "f3629c48a4ec59bff207dfdd29f8e0d626ddf41c3a6693f9bf2b3757b646fb7e5096dd926be866e44dfc3e80321e76fb5c473fe41e6d9a8565bac34c99dffdb1",
-        "sha1": "c75d03796b22e70b3441f0cfa1b1b0a59d2ddd14"
+        "sha512": "09bc87ebd3adb05451e9575bcc2e41865c3b3437b3f8b6b7a314bb0c7d32a79c15d76d8b3b18ab5ffe43a682c52ba22c3715837d7ab24f514f267b6264304285",
+        "sha1": "14e6fb20e82ffcb7e604e595118e7d0ca9f7f384"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/B7MZQ4xS/skinlayers3d-neoforge-1.9.2-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/nVJQQoQ0/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
       ],
-      "fileSize": 873849
+      "fileSize": 1966859
     },
     {
       "path": "mods/sliceanddice-forge-4.2.2.jar",

@@ -756,6 +756,21 @@
       "fileSize": 4267528
     },
     {
+      "path": "mods/InventoryProfilesNext-neoforge-1.21.1-2.2.1.jar",
+      "hashes": {
+        "sha512": "237ced79d16b57da1a43c9f6d183bc555c434ac1ecd0ceca7ecfcbc4ae0e7b87fad23e5769050c37ab9e089f3cd8c8066260cded4e04337e11e2fca066f07131",
+        "sha1": "2d6ca237c1271ebdc32d1de66ba7ac5beff45b0b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/YbsgXb9G/InventoryProfilesNext-neoforge-1.21.1-2.2.1.jar"
+      ],
+      "fileSize": 1272951
+    },
+    {
       "path": "mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
       "hashes": {
         "sha512": "b6d3cc651fa76c03d6845dd667fc673b74bd7409e7a1631907d82200b15ae50d76dd018c9224bc9314a46314bb478c0a48cc7b37d717e70f05dad8fb2878ac77",

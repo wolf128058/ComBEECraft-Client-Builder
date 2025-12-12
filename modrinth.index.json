@@ -4611,6 +4611,21 @@
       "fileSize": 1117442
     },
     {
+      "path": "resourcepacks/ATM x MSD [v3.1.1LM].zip",
+      "hashes": {
+        "sha512": "4a0257a974b3180f7c07f9edce2083c3a3e301668cd1acd9666c8c21514d0014af05a4fab27ff953eaabd70c989f8859ef06f55b464e1e28e91589866330425a",
+        "sha1": "76b8117292d69f23ed072f1b73bd8713363dd90c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/odZZdRCE/versions/8OLJK7Di/ATM%20x%20MSD%20%5Bv3.1.1LM%5D.zip"
+      ],
+      "fileSize": 8166204
+    },
+    {
       "path": "resourcepacks/Animon Voices (Ambient).zip",
       "hashes": {
         "sha512": "79ffc5b38e72066d557fcfe22b76de31f201bef3ee21996a5f6142dd40f917f0a4746030f40c4b94cb45696c59b038982b6a350ceb921aafb40abf44cc4e4746",

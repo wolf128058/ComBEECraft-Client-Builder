@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.4-preview01",
+  "versionId": "1.0.4-preview02",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -1266,6 +1266,21 @@
       "fileSize": 132924
     },
     {
+      "path": "mods/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+      "hashes": {
+        "sha512": "fea6cf8dcfb7b0a0bd7131885b304caec475a56564c60580cd2b2352399df1fb22b5f1b3e979f8a0d2e7175c25f1581b13794e89f23e3bb4491b83f2604cbdc0",
+        "sha1": "ffb0d0a6d4300157ee1cafddd014daa9df724a80"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/K7VSm2YY/versions/gyP6Pp5h/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar"
+      ],
+      "fileSize": 118319
+    },
+    {
       "path": "mods/ae2wtlib-19.3.0.jar",
       "hashes": {
         "sha512": "477fbc6642b2f96208b99189b9fb3fb774d41587a545a35d0b417fc0321bbe944db2553f0a08d0663258500ea73c3773f7fc093af604ff1d4b579b32c7c40d69",
@@ -1744,6 +1759,21 @@
         "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar"
       ],
       "fileSize": 50235
+    },
+    {
+      "path": "mods/cataclysm_spellbooks-1.1.7-1.21.jar",
+      "hashes": {
+        "sha512": "288268f58e98bb917aca2eba39f02512e47cb8174a24af00c1183d47ffdf015dab201b4a35b4a43d6f346831e3a31bd96571275e63c342c925f087cbd24eadbc",
+        "sha1": "f279ece596a0e3ab327c539505ce9aaa47bcf4e4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3FEg0A8D/versions/PLWaIMgo/cataclysm_spellbooks-1.1.7-1.21.jar"
+      ],
+      "fileSize": 459009
     },
     {
       "path": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
@@ -3814,6 +3844,21 @@
         "https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar"
       ],
       "fileSize": 658173
+    },
+    {
+      "path": "mods/recipe_integration-0.3.0.jar",
+      "hashes": {
+        "sha512": "e92d4186e64f82f305331a3daa3a75822591fd1fc9b8ca35f44392de6b1959a2ce9366c0cb57b9839a3cb59f714f2dfc5ea847bc0f5f6adf3e6f2a2206adf4cd",
+        "sha1": "dabc2eac8ae1574e7d2bc365563cd72585ecd30e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/35hUUUwA/versions/uVUhhVIS/recipe_integration-0.3.0.jar"
+      ],
+      "fileSize": 1775376
     },
     {
       "path": "mods/reddensstonelantern-1.0.4-neoforge-1.21.1.jar",

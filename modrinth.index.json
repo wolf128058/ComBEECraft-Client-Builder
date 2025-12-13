@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.4-preview03",
+  "versionId": "1.0.4-preview04",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -1056,6 +1056,21 @@
       "fileSize": 77326
     },
     {
+      "path": "mods/SimpleTMs-neoforge-2.3.3.jar",
+      "hashes": {
+        "sha512": "9adb638419e08c05fc1eb123903848c3e999cfea9b3e111f22f4869891be282fc18b4a17066027757bbb0a5ee3ef0be0a7d278d7f593f26a5dd68280ef0edc01",
+        "sha1": "f30723c57a72ff9c9f4b54fe1652430273355607"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yFqR0DNc/versions/uaKfPMYS/SimpleTMs-neoforge-2.3.3.jar"
+      ],
+      "fileSize": 825317
+    },
+    {
       "path": "mods/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
       "hashes": {
         "sha512": "507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b0a722e5125b88e94dfb2586ee5c992340678c5de52567c67d72a924d",
@@ -1489,21 +1504,6 @@
         "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
       ],
       "fileSize": 584004
-    },
-    {
-      "path": "mods/arcwise-1.21-1.21.1-forge.jar",
-      "hashes": {
-        "sha512": "e4f7878fbbad5341a8dfcc1210e931c818d407e883402f4f3a0accf7857302c33224c3b2923b853e9c3a830e9e3d6268dc561671b0d4d12f53d551b0593c23f9",
-        "sha1": "94018c9ffd9b61f96b1bf301eb4f1b78103a095d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/8Uddo3yY/versions/ozDG3dvw/arcwise-1.21-1.21.1-forge.jar"
-      ],
-      "fileSize": 62668
     },
     {
       "path": "mods/astikorcartsredux-1.2.2.jar",
@@ -2916,34 +2916,19 @@
       "fileSize": 576866
     },
     {
-      "path": "mods/irons_apothic_invaders_1.0.0.jar",
+      "path": "mods/irons_spellbooks-1.21.1-3.14.8.jar",
       "hashes": {
-        "sha512": "6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0",
-        "sha1": "320585bf9ef2120545fbe481655cbb09650b7e15"
+        "sha512": "7ed9891680413913e22179a9b7e707271e97453bc4d2a23bc7a6c6da2d6572eb611b3f73e2c2ccb44326cc857335e2546c2313f6b4f41b18815ae9cc63d13f3d",
+        "sha1": "9f3c9ec0ab3d1caed39010eaaf32c46d16901952"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1veFBGT4/versions/JoyvwffA/irons_apothic_invaders_1.0.0.jar"
+        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/4GN2MStD/irons_spellbooks-1.21.1-3.14.8.jar"
       ],
-      "fileSize": 124889
-    },
-    {
-      "path": "mods/irons_spellbooks-1.21.1-3.14.4.jar",
-      "hashes": {
-        "sha512": "93fca12e66e2b4de458c0474c26b2de7ceaf93cc91d4cca723e9ade5582d4903faa8a4e601ce58a14fc1f02f651fadd497b289506d46cea47f52b808ccc9257f",
-        "sha1": "5d119e79beb9ed5d4264b083a958ec7e0a83f768"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9PTiIbvt/irons_spellbooks-1.21.1-3.14.4.jar"
-      ],
-      "fileSize": 12400433
+      "fileSize": 12529766
     },
     {
       "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
@@ -4566,19 +4551,19 @@
       "fileSize": 1118896
     },
     {
-      "path": "resourcepacks/ATM x MSD [3.0.1].zip",
+      "path": "resourcepacks/ATM x MSD [v3.1.1].zip",
       "hashes": {
-        "sha512": "2d4dad0e9a97ebac71c5bb1a364a12b333404c44f8d126e66ede176e3691300a14f30969f7f7ceb0b59f617dabfe7cfdb700321c950e06e88ba921a75873dfd8",
-        "sha1": "24bf55023c90a73ee0b97cd43c18e71f6c63aa38"
+        "sha512": "de2d1c877bede5b96f7086d61b286582712a9ef65cc57c90d82371170fe8e6ccdb9b4e4bde645833ab7a8ef0f3a848fae57a62d9255c25d92f6533bcb3d9b58d",
+        "sha1": "7186490990329f0633ec9fea438a69381e6ffce7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/odZZdRCE/versions/Rqg2WObv/ATM%20x%20MSD%20%5B3.0.1%5D.zip"
+        "https://cdn.modrinth.com/data/odZZdRCE/versions/kdtjENFG/ATM%20x%20MSD%20%5Bv3.1.1%5D.zip"
       ],
-      "fileSize": 8257922
+      "fileSize": 8186350
     },
     {
       "path": "resourcepacks/Animon Voices (Ambient).zip",
@@ -4611,19 +4596,19 @@
       "fileSize": 14395589
     },
     {
-      "path": "resourcepacks/CCCwLegends.zip",
+      "path": "resourcepacks/CCCwLegends1.7.zip",
       "hashes": {
-        "sha512": "6aeabffcdac31a1ef01af60ad197dd8e8efa3b7c0f3e5f45793bda615352adcd3874e0f9a77f26a82c0b5aaf2fe282b769d290c0300c7bac04708ba56245a10f",
-        "sha1": "02850b0c79c476f012410349060451386a914e23"
+        "sha512": "3d07b41801bf211b63fb3336211609bb572e487e6161c32fdd0c5a4a384f5ccc5ce31df8f8dc7c8196e4c338077cb430987f1ed4c176fe2fb0a1317ad6919be6",
+        "sha1": "a876990825db602b2eb8997a8bbd2339d747c95c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/578VPQc9/versions/t7bzMGjO/CCCwLegends.zip"
+        "https://cdn.modrinth.com/data/578VPQc9/versions/yPcyuQDZ/CCCwLegends1.7.zip"
       ],
-      "fileSize": 12518465
+      "fileSize": 16641899
     },
     {
       "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",

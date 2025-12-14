@@ -441,19 +441,19 @@
       "fileSize": 3264862
     },
     {
-      "path": "mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-2.4.3-b-1.21.1-fabric-neoforge.jar",
       "hashes": {
-        "sha512": "c3373812cb65b98cf524e387d3f032ebcbf3bd4e874d42f46b700be9b895ca15c8568cd0c2e0244a277104f42a3fe0b0446305b29e9abe89c0146c96b1b97f82",
-        "sha1": "e8a97b52e89bf96f67af547cda3bc6b15f5ceb73"
+        "sha512": "e689c1cf093e7541e94e05f9880a39d0326e18d0e8aa2f071beac2efd64155857fcfb48396fafb0406d0e0654e69ee3630c66d9c058b6ac51f15baaeec0982d4",
+        "sha1": "ed4dcd8363226bcaf7cbad9233e41d8e61805c50"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/uzLZ00HG/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar"
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/75PXmyqH/DistantHorizons-2.4.3-b-1.21.1-fabric-neoforge.jar"
       ],
-      "fileSize": 25477119
+      "fileSize": 25495853
     },
     {
       "path": "mods/DnDesires-1.21.1-2.2d-BETA.jar",

@@ -59,15 +59,29 @@ jobs:
         run: |
           test -f modrinth.index.json || { echo "::error::modrinth.index.json fehlt"; exit 1; }
 
-      - name: Read name/version
+      - name: Read name/version and detect prerelease
         id: meta
         run: |
+          # Extract Data
           NAME_RAW=$(jq -r '.name // "Pack"' modrinth.index.json)
           VER_RAW=$(jq -r '.versionId // .version // .version_number // "dev"' modrinth.index.json)
+          
+          # Clean name and version
           NAME_SAFE=$(printf "%s" "$NAME_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
           VER_SAFE=$(printf "%s" "$VER_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
+          
+          # Prerelease Check: 
+          # If the version does NOT consist solely of numbers and dots (e.g., contains -beta, -preview, etc.)
+          # we set is_prerelease to true.
+          IS_PRERELEASE="false"
+          if [[ ! "$VER_SAFE" =~ ^[0-9.]+$ ]]; then
+            IS_PRERELEASE="true"
+            echo "Detected Prerelease version: $VER_SAFE"
+          fi
+
           echo "pack_name=$NAME_SAFE" >> "$GITHUB_OUTPUT"
           echo "version=$VER_SAFE" >> "$GITHUB_OUTPUT"
+          echo "is_prerelease=$IS_PRERELEASE" >> "$GITHUB_OUTPUT"
 
       - name: Stage packroot (nur overrides)
         run: |
@@ -94,22 +108,13 @@ jobs:
           tag_name: ${{ format('{0}-{1}', steps.meta.outputs.pack_name, steps.meta.outputs.version) }}
           name: ${{ steps.meta.outputs.pack_name }} v${{ steps.meta.outputs.version }}
           draft: false
-          prerelease: false
+          prerelease: ${{ steps.meta.outputs.is_prerelease == 'true' }}
           files: |
             ${{ steps.package.outputs.artifact }}
 
-      - name: Save slim .mrpack locally (act only)
-        if: env.ACT
-        run: |
-          echo "COPYING: ${{ steps.package.outputs.artifact }} -> $GITHUB_WORKSPACE/.build"
-          ls -l "${{ steps.package.outputs.artifact }}"
-          mkdir -p "$GITHUB_WORKSPACE/.build"
-          cp "${{ steps.package.outputs.artifact }}" "$GITHUB_WORKSPACE/.build/"
-          echo "📦 Slim .mrpack saved as $GITHUB_WORKSPACE/.build/"
-
-
   build-fat:
     name: Build FAT .mrpack (mit Downloads)
+    if: github.event_name != 'workflow_dispatch' || !vars.ACT_LOCAL
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -150,15 +155,29 @@ jobs:
         run: |
           test -f modrinth.index.json || { echo "::error::modrinth.index.json fehlt"; exit 1; }
 
-      - name: Read name/version
+      - name: Read name/version and detect prerelease
         id: meta
         run: |
+          # Extract Data
           NAME_RAW=$(jq -r '.name // "Pack"' modrinth.index.json)
           VER_RAW=$(jq -r '.versionId // .version // .version_number // "dev"' modrinth.index.json)
+          
+          # Clean name and version
           NAME_SAFE=$(printf "%s" "$NAME_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
           VER_SAFE=$(printf "%s" "$VER_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
+          
+          # Prerelease Check: 
+          # If the version does NOT consist solely of numbers and dots (e.g., contains -beta, -preview, etc.)
+          # we set is_prerelease to true.
+          IS_PRERELEASE="false"
+          if [[ ! "$VER_SAFE" =~ ^[0-9.]+$ ]]; then
+            IS_PRERELEASE="true"
+            echo "Detected Prerelease version: $VER_SAFE"
+          fi
+
           echo "pack_name=$NAME_SAFE" >> "$GITHUB_OUTPUT"
           echo "version=$VER_SAFE" >> "$GITHUB_OUTPUT"
+          echo "is_prerelease=$IS_PRERELEASE" >> "$GITHUB_OUTPUT"
 
       - name: Stage packroot (index + overrides)
         run: |
@@ -214,15 +233,6 @@ jobs:
           tag_name: ${{ format('{0}-{1}', steps.meta.outputs.pack_name, steps.meta.outputs.version) }}
           name: ${{ steps.meta.outputs.pack_name }} v${{ steps.meta.outputs.version }}
           draft: false
-          prerelease: false
+          prerelease: ${{ steps.meta.outputs.is_prerelease == 'true' }}
           files: |
             ${{ steps.package.outputs.artifact }}
-
-      - name: Save fat .mrpack locally (act only)
-        if: env.ACT
-        run: |
-          echo "COPYING: ${{ steps.package.outputs.artifact }} -> $GITHUB_WORKSPACE/.build"
-          ls -l "${{ steps.package.outputs.artifact }}"
-          mkdir -p "$GITHUB_WORKSPACE/.build"
-          cp "${{ steps.package.outputs.artifact }}" "$GITHUB_WORKSPACE/.build/"
-          echo "📦 Fat .mrpack saved as $GITHUB_WORKSPACE/.build/"

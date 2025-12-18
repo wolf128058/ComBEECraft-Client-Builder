@@ -141,19 +141,19 @@
       "fileSize": 16319
     },
     {
-      "path": "mods/BadOptimizations-2.4.0-1.21.1.jar",
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
       "hashes": {
-        "sha512": "275a8e3314ae6c6f0c71582b22d1bb6354ec116355ab414da96b8634e83ee74ad05f76d06444664f983980aedea89bb2ae34e7a1b7d890209732e90d70fb0d1b",
-        "sha1": "7ebcf34589d58063412802451bdacb8f91fd9c03"
+        "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac",
+        "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/PX1KGjg4/BadOptimizations-2.4.0-1.21.1.jar"
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
       ],
-      "fileSize": 285984
+      "fileSize": 283566
     },
     {
       "path": "mods/BetterPingDisplay-1.21.1-1.1.jar",

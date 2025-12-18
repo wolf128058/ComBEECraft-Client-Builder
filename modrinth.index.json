@@ -711,19 +711,19 @@
       "fileSize": 213853
     },
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.6.8+1.21.1.jar",
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar",
       "hashes": {
-        "sha512": "0c714fb85a14f6c0305adbc2f5132fe37221b9897be18cbd8c8e6f236bf5894a3930a57fe8f1a10f6aa06b412a7d481731980cba83cc672e87a22b31bc1376b6",
-        "sha1": "5b165e9a2b75b71f627b0962a6ad1949fa2b6fea"
+        "sha512": "0d55daacfc577b3395925b4d241b175a4e12cbd8b27cecfbd4653ab68867691ecd664c565a5d075fc4339dae1254d8789dbf405a80e72e98ebba3afdb21a08ba",
+        "sha1": "01df8113ce41993ea341b973afc36ef2e1701e00"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/fWangWhY/ImmediatelyFast-NeoForge-1.6.8%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/7TFPpGUU/ImmediatelyFast-NeoForge-1.6.9%2B1.21.1.jar"
       ],
-      "fileSize": 254698
+      "fileSize": 367790
     },
     {
       "path": "mods/Incendium_1.21.x_v5.4.4.jar",

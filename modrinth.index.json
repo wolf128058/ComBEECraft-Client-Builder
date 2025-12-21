@@ -576,19 +576,19 @@
       "fileSize": 951495
     },
     {
-      "path": "mods/ExtendedAE-1.21-2.2.26-neoforge.jar",
+      "path": "mods/ExtendedAE-1.21-2.2.27-neoforge.jar",
       "hashes": {
-        "sha512": "764b07aff52c9c5b3e92f2346a672f1b986108ea66b18a8fd499327f485c8f9e5fe985face9fb7cd596a4af3c28b17268e3544b78b6ea55fe6989bbdd6947726",
-        "sha1": "3cd350e10ea87cc65187eefea1c99774acecfd55"
+        "sha512": "66b54025833ed5a85ba830e5d93813812f7848bd30a27f8e2fccd78a0bd632c994886732ba8c457928426f2b382609c266d448009cf120ecba26f8f13c5b491c",
+        "sha1": "9a21592d9879f6edb98021298962ff7f5da32a81"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/JiOqfoFM/versions/PXAdwHro/ExtendedAE-1.21-2.2.26-neoforge.jar"
+        "https://cdn.modrinth.com/data/JiOqfoFM/versions/mHal3Mkb/ExtendedAE-1.21-2.2.27-neoforge.jar"
       ],
-      "fileSize": 3496637
+      "fileSize": 5542445
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.2.9.jar",

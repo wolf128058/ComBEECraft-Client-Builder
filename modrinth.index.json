@@ -3531,19 +3531,19 @@
       "fileSize": 1479333
     },
     {
-      "path": "mods/morerelics-1.5.2-1.21.1.jar",
+      "path": "mods/morerelics-1.6.0-1.21.1.jar",
       "hashes": {
-        "sha512": "15bc5d4f8bf669266a6a7edada586ac5c521f71a269445186fdf9ec24e3c59c419174dcab97cba7331e0e0ea1036825f74af9744f1fbddbdb78330bec9071740",
-        "sha1": "da6033d62cb42d01090f51d5812c5a154d2f1e07"
+        "sha512": "cf6ab12619c61237c9cf52a08302370e5efa8a83dfd9a54d5beebe6ebb1344ddcb9474db8a044e7fdd8cc5171b361df33659ec44e4fafa48de489af691f666c7",
+        "sha1": "a86887f24e4dff4eea878ca9d33af9cdbac7728e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NmYBBHLU/versions/uZfeTg2o/morerelics-1.5.2-1.21.1.jar"
+        "https://cdn.modrinth.com/data/NmYBBHLU/versions/zHoeOXn3/morerelics-1.6.0-1.21.1.jar"
       ],
-      "fileSize": 317326
+      "fileSize": 561069
     },
     {
       "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",

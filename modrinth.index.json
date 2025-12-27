@@ -3276,19 +3276,19 @@
       "fileSize": 143704
     },
     {
-      "path": "mods/mafglib-0.4.1+mc1.21.1.jar",
+      "path": "mods/mafglib-0.4.2+mc1.21.1.jar",
       "hashes": {
-        "sha512": "9294f14cf17605bbd0af7fb54278395ad6865145d8dcf2100289128daf966cee45862a5032f5e248d70aa6aa34418d937cfac9c1c3d7ce78317531b46570a75d",
-        "sha1": "043e9c2dc77620c32da268f6e631d664e7582255"
+        "sha512": "43c24f8ebd2f27b3f8be33df224d59baf3c901fcaa7c01ce42e5bcf8891c4cad0a7406e0374f66107474a8b627c55cf81f7805cc15d7da2f8f1bbe052892b856",
+        "sha1": "32e08cc76dd63d05730db4b299ecb241ea053399"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/SKI34J7B/versions/znxhC06k/mafglib-0.4.1%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/SKI34J7B/versions/YcfOKxBv/mafglib-0.4.2%2Bmc1.21.1.jar"
       ],
-      "fileSize": 1113481
+      "fileSize": 1113826
     },
     {
       "path": "mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar",

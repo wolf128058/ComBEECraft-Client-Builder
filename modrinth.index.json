@@ -2496,49 +2496,49 @@
       "fileSize": 875515
     },
     {
-      "path": "mods/easy_npc-neoforge-1.21.1-6.5.0.jar",
+      "path": "mods/easy_npc-neoforge-1.21.1-6.5.2.jar",
       "hashes": {
-        "sha512": "4787383f52e64237afb3633ac2a4b573d0ae553491b3f8f6c9355b80de8cf38b113511b873454fd95748c342194e68acc6a34027bf1cdc71ccd1d58e440f6a25",
-        "sha1": "2ecc102d41d451e4b0801bff5982a698f46b6f0d"
+        "sha512": "9c0e6f6ef327e6ed4ce3b8d8b1e7204588e5febe3fc29fad2416fe17c831ad508d1164b8546388ba51c4bd993da5391de7ab3b13b8d27b57d854e762f0daa192",
+        "sha1": "7e6c8da1040b034c3c4147386c4ceef9506a44cb"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Epm6R3P2/versions/rRqZXRhf/easy_npc-neoforge-1.21.1-6.5.0.jar"
+        "https://cdn.modrinth.com/data/Epm6R3P2/versions/29SHC88B/easy_npc-neoforge-1.21.1-6.5.2.jar"
       ],
-      "fileSize": 1612694
+      "fileSize": 1626395
     },
     {
-      "path": "mods/easy_npc_bundle-neoforge-1.21.1-6.5.0.jar",
+      "path": "mods/easy_npc_bundle-neoforge-1.21.1-6.5.2.jar",
       "hashes": {
-        "sha512": "49712cc82fc5d14625ede3735d129300979cc983640bb45b52683c4c214d2bd58ed592005e4adf638f7b69ce8a4aeb56807bf00cb7714f26be36ecbc25727943",
-        "sha1": "5546fac0fba0882470e4ed7e20eb528d74fb2bd7"
+        "sha512": "f32ec2e24fe30e9ee8aeec35e8ea9a0dfa28168c5a0cc3caa219025cc41c2f0a2557599bfc3dad19636b65fffcf4e404009aed9c4df8e11e71609c65ecbf633a",
+        "sha1": "5a007e349d33b7511764fe73db1a712c55a03ae1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/CgGEe1h3/versions/8C0xLSTo/easy_npc_bundle-neoforge-1.21.1-6.5.0.jar"
+        "https://cdn.modrinth.com/data/CgGEe1h3/versions/moy5SHYO/easy_npc_bundle-neoforge-1.21.1-6.5.2.jar"
       ],
-      "fileSize": 28348
+      "fileSize": 28350
     },
     {
-      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.5.0.jar",
+      "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.5.2.jar",
       "hashes": {
-        "sha512": "f2fe5fe0f36e1d13929ff52f00904d5304eff5283803d4f4344cc022e13532216a7a659460ac95e3d5ffcf64c1ea623f1cae64acfa9a6fdbfcfa6fe9d3ade58e",
-        "sha1": "d503262b75d66aef8553c60eb5d9ac0eaaabe67e"
+        "sha512": "6a894e7aed17e296b0add30f7c46f2cd93558cfbb145efea34c86c1d28ad31fb874c43d066ce68415c3bbb48a419eb52c6dc41b3a858d3676b2b8c4058b97374",
+        "sha1": "c95be17d92ec1dbf52c55f1f450ac1fa40a79d9a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uTGjf7vA/versions/1zXL7vnp/easy_npc_config_ui-neoforge-1.21.1-6.5.0.jar"
+        "https://cdn.modrinth.com/data/uTGjf7vA/versions/FjIG6WD6/easy_npc_config_ui-neoforge-1.21.1-6.5.2.jar"
       ],
-      "fileSize": 723250
+      "fileSize": 725740
     },
     {
       "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",

@@ -3471,19 +3471,19 @@
       "fileSize": 12736547
     },
     {
-      "path": "mods/mega_showdown-neoforge-1.5+1.7.1+1.21.1.jar",
+      "path": "mods/mega_showdown-neoforge-1.5.1+1.7.1+1.21.1-b-2.jar",
       "hashes": {
-        "sha512": "c2da3e7668e15078c5a757b108e935eca317416d5ec486cdf1bbc68671698933b393c12bd6ca13c531a683c88fd504cc84ad61b1909765b24a5adf3c12e4dcf0",
-        "sha1": "52de28b974906961d47174290991f5783580c058"
+        "sha512": "ece7e96c839057d05b824877ef617672f7a1785cf3f102953cf8c66beee8f0e12f118b75d74fa26b7908abec07c9c1c44439e1174511d87694975f2c0b386df3",
+        "sha1": "22caa12c898ff7366f7ef249fcc590b6dac012d3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/SszvX85I/versions/v4TI8xAm/mega_showdown-neoforge-1.5%2B1.7.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/SszvX85I/versions/16L9myt6/mega_showdown-neoforge-1.5.1%2B1.7.1%2B1.21.1-b-2.jar"
       ],
-      "fileSize": 16029559
+      "fileSize": 16119461
     },
     {
       "path": "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",

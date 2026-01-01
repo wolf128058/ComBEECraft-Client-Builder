@@ -4748,17 +4748,17 @@
     {
       "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
       "hashes": {
-        "sha512": "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470",
-        "sha1": "8bf0397e150278bbf09bce33d1e32734e8a21b18"
+        "sha512": "e09a2bb322c6a6f8b83341934eb0d8c08e4f08bbd024c2b1f96291079bdfeb7156273c8f6da42c74ecc52a3286301a1f8097921bf69edf1f15006c2b123e377b",
+        "sha1": "c6c4625133a18fca981fb3525cfffa44f8ca1745"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Va3BanZa/versions/OQgouS3q/E19%20Cobblemon%20Minimap%20Icons.zip"
+        "https://cdn.modrinth.com/data/Va3BanZa/versions/fED4EOtM/E19%20Cobblemon%20Minimap%20Icons.zip"
       ],
-      "fileSize": 15941923
+      "fileSize": 17500008
     },
     {
       "path": "resourcepacks/Emissive-Cobblemon-Ores-1.7.zip",

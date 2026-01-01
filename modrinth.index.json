@@ -2661,19 +2661,19 @@
       "fileSize": 81847
     },
     {
-      "path": "mods/entity_model_features_1.21-neoforge-3.0.7.jar",
+      "path": "mods/entity_model_features_1.21-neoforge-3.0.10.jar",
       "hashes": {
-        "sha512": "f429aadddb3723a9bb4056e13dfd2c7dca1c6af471c11066eb6bafe72d25758c58897229b6a4aae4898cb3cef0db252844d0eaa14033acc67438ae8640cbaaa7",
-        "sha1": "f99ae3a4701a2ae822dbbc5cf1eab49aff0c2777"
+        "sha512": "4bec86548d90de217d3379a9f90b334c59811cc12a12f7859c61badbeff2a57731c1cd4b696438f02e178ae0e502f9642cd64e451ecdcc55bf21b2028341c7be",
+        "sha1": "558162f7704a324555581db935766d017dbed2ca"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/sKRcyJZ6/entity_model_features_1.21-neoforge-3.0.7.jar"
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/uysyqlsZ/entity_model_features_1.21-neoforge-3.0.10.jar"
       ],
-      "fileSize": 474594
+      "fileSize": 487476
     },
     {
       "path": "mods/entity_sound_features_1.21-neoforge-0.7.1.jar",

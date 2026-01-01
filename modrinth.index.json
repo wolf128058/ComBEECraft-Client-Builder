@@ -3516,19 +3516,19 @@
       "fileSize": 10441
     },
     {
-      "path": "mods/moonlight-1.21-2.28.2-neoforge.jar",
+      "path": "mods/moonlight-1.21-2.29.4-neoforge.jar",
       "hashes": {
-        "sha512": "7e0ef6a67d99c63126c12e0c13303f167b4b609a831aad9cde029b8b3dc56de380a26599f84e1b060ed3201a1df8adc3ddbb78c09fb8d361e4219cfd28f7633d",
-        "sha1": "100339839fce7009fa646562cd9ae0438c64cb1c"
+        "sha512": "786062a4eb5635d486178ba4d2d2957a4758e7dee8747ce4d8701d1878e673ed64154543c5b0c2261a83cd81a64e587113726c9e30b7d8b35666e67fad3393f3",
+        "sha1": "0d0971eaf086a3bd7743907757132f30c6f026c3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/twkfQtEc/versions/FW12WzQ3/moonlight-1.21-2.28.2-neoforge.jar"
+        "https://cdn.modrinth.com/data/twkfQtEc/versions/lUuiBbG8/moonlight-1.21-2.29.4-neoforge.jar"
       ],
-      "fileSize": 1479333
+      "fileSize": 1499413
     },
     {
       "path": "mods/morerelics-1.6.0-1.21.1.jar",

@@ -966,19 +966,19 @@
       "fileSize": 507443
     },
     {
-      "path": "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.3.jar",
+      "path": "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar",
       "hashes": {
-        "sha512": "050a07332c0baaf28d46e7b79e99e5a0475ef3149d22000ffed80ded0e4319bc2f56caa566a9594d65128eb852a5d6ca613c587fe32c5115e202cd30f706043a",
-        "sha1": "97097e3e04deeb956259a9301783739db32600ea"
+        "sha512": "6ad3fb5bee6b6701e465baa5c1db2cfbc80fca9e0e8c08d7c48b8d911c68479c0b33399f8a960565060ae6c94d82750d28daf66de7269f3fa096f014554aef8b",
+        "sha1": "b8b2aa46b3987a6ee2f7f34593fd243e647d8c9e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NTi7d3Xc/versions/FS1ccTQf/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.3.jar"
+        "https://cdn.modrinth.com/data/NTi7d3Xc/versions/JXws7ZiS/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar"
       ],
-      "fileSize": 20742715
+      "fileSize": 20743236
     },
     {
       "path": "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar",

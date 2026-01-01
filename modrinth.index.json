@@ -4686,19 +4686,19 @@
       "fileSize": 27758491
     },
     {
-      "path": "resourcepacks/Battle Tracks v1.1b.zip",
+      "path": "resourcepacks/Battle Tracks v1.2.zip",
       "hashes": {
-        "sha512": "ab7d30a9e0bb845c06d2ae72716f59b2f070bc688cc8e65c656de481bd3c85eb72695b2c5a219ecd3c009ff0b5acebe85dd9fcbf4045ce107857d7988e23baef",
-        "sha1": "47e812260fe90db2577083400e9c80822fe2650b"
+        "sha512": "3a3538fbb272c9f56a4426a7a9500ffde76e94cbdd2941507b1c4dfeaa05878b6c5533269cab3696c7369b796d597f65c73c949a6039f255637a50abad033d23",
+        "sha1": "5494ff9f049bf4d00dca141e3fa3d5bee06b9e94"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1GY5Eip3/versions/H9MqYKJ5/Battle%20Tracks%20v1.1b.zip"
+        "https://cdn.modrinth.com/data/1GY5Eip3/versions/QuFotxpR/Battle%20Tracks%20v1.2.zip"
       ],
-      "fileSize": 14395589
+      "fileSize": 14394261
     },
     {
       "path": "resourcepacks/CCCwLegends1.7.1.zip",

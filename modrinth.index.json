@@ -1191,19 +1191,19 @@
       "fileSize": 235345
     },
     {
-      "path": "mods/XaeroPlus-2.29.1+neoforge-1.21.1-WM1.39.12-MM25.2.10.jar",
+      "path": "mods/XaeroPlus-2.30.3+neoforge-1.21.1-WM1.40.6-MM25.3.5.jar",
       "hashes": {
-        "sha512": "e321d6075d161742cea1760b386e296bff3973f1e4ac2a1f07579934fd97db8bda04ae57126587692f89be692a697a6988fc1f68f2a87568b15558d35bd478a7",
-        "sha1": "4c695240af454ac584e56ac327f949b30dca0e68"
+        "sha512": "520757441f662aabca3287ae3d99afb362b28e0be7d50a67db5476c3876154fba40c4198542975cbdf0efe278e76193a0b75ca4fd0de48a0351cca9bec7eda65",
+        "sha1": "9cfa260b765e1a50ea90817542d91a3c0a62d170"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EnPUzSTg/versions/kVEyDBWe/XaeroPlus-2.29.1%2Bneoforge-1.21.1-WM1.39.12-MM25.2.10.jar"
+        "https://cdn.modrinth.com/data/EnPUzSTg/versions/J5Er2YZy/XaeroPlus-2.30.3%2Bneoforge-1.21.1-WM1.40.6-MM25.3.5.jar"
       ],
-      "fileSize": 7787261
+      "fileSize": 7787840
     },
     {
       "path": "mods/XaerosWorldMap_1.39.12_NeoForge_1.21.jar",

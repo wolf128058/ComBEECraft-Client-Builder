@@ -4446,19 +4446,19 @@
       "fileSize": 458574
     },
     {
-      "path": "mods/toomanyrecipeviewers-0.7.0+mc.21.1.jar",
+      "path": "mods/toomanyrecipeviewers-0.7.1+mc.21.1.jar",
       "hashes": {
-        "sha512": "d962f9ab2285fe0b85b3961bb86e9182ab817d9d414ab4b245e0d74d76207340cf80f7fe15c9e6d100605c2a3588edd6635bb1b4504e849f96257c3bc6fd428e",
-        "sha1": "6f50e476a0b542ddaefdbd3fcc5ceb22791244a5"
+        "sha512": "9b005dadd055d4755fc4028a3bcdda085e31f535da68178b170624689570fc3f847dac5697a640c74bbbdcc3e0ca633be26115005774dd71727e2d7ec76addca",
+        "sha1": "a13279348d76bb3ecf8ff1b978ebd5bf8b7e3d52"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yFypjcfd/versions/Pg2Xo3Iz/toomanyrecipeviewers-0.7.0%2Bmc.21.1.jar"
+        "https://cdn.modrinth.com/data/yFypjcfd/versions/suVw5sTT/toomanyrecipeviewers-0.7.1%2Bmc.21.1.jar"
       ],
-      "fileSize": 1155645
+      "fileSize": 1156564
     },
     {
       "path": "mods/torchmaster-neoforge-1.21.1-21.1.9.jar",

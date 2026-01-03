@@ -111,6 +111,21 @@
       "fileSize": 50812
     },
     {
+      "path": "mods/Applied-Mekanistics-1.4.3.jar",
+      "hashes": {
+        "sha512": "20db7dca0545a86351627a11b0d6fea0b687f2cd0fac621378b84926196e363d4e42c7d90d40c6d57172dc1dcf5bb98195e25a2c0b90c648008690a759e2e1b5",
+        "sha1": "8b37889d94b6c1ae5cd31ddde379a1c323c3c501"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IiATswDj/versions/9n9p68Qq/Applied-Mekanistics-1.4.3.jar"
+      ],
+      "fileSize": 185707
+    },
+    {
       "path": "mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar",
       "hashes": {
         "sha512": "7c2d4d2264d3fc84bdd7f07fccc177ab4e51b9082e724bbec65a27d37fb36f552897f7ced16884448131868d3939c7b8e2cb34a2abb7d17607ccdc256d65c2d2",

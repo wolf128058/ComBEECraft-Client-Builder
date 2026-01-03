@@ -3216,6 +3216,21 @@
       "fileSize": 23770
     },
     {
+      "path": "mods/logbegone-fabric-1.21.1-1.0.3.jar",
+      "hashes": {
+        "sha512": "b845aca77dd9b63348ab94068b5bbad3b2c6a5aeaf778ce4e9ac72974c6060fa8db9241f99d2758f99bd45d470e95db1087a4c1598ec9c2bfa346b3988d095bc",
+        "sha1": "c50c365a1d1da7ab38064a09687ad3a482e5e651"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9ON3zv6e/versions/otWPOwjw/logbegone-fabric-1.21.1-1.0.3.jar"
+      ],
+      "fileSize": 73593
+    },
+    {
       "path": "mods/lootr-neoforge-1.21.1-1.11.36.109.jar",
       "hashes": {
         "sha512": "5a843128058973183697f662da53ff2d1667d53a21484c33d9068991aacb499918e3926807430994fa725be52f84b1d52507dbfaebc3640d9e42451ec5c01dd7",

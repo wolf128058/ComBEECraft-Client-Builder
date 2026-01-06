@@ -4341,19 +4341,19 @@
       "fileSize": 1495723
     },
     {
-      "path": "mods/sophisticatedstorage-1.21.1-1.5.18.1405.jar",
+      "path": "mods/sophisticatedstorage-1.21.1-1.5.19.1415.jar",
       "hashes": {
-        "sha512": "9923a5c4aba5ca24cf8745c5b0e49ff8f243643eca6d06990cd3da0bf04b7817b9e7417ab854abb8447d7e35ded7aa845d76eda443a8c5beeeacf5e1e8808bb4",
-        "sha1": "de7bd88d1c72279758b14cb3f3966296bb7e1102"
+        "sha512": "475e7b2b5c0cabdd7ed69ea113201eeb11aaa9a1d5c79ed4238703f806a198db0e83c2dfd6a5cab6c4f629e4caf8fdb8259fd9b9f0d70e9987a8d1221e6c06b4",
+        "sha1": "f7d122a06b5281daa87e519f373bf820a6f4ab07"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hMlaZH8f/versions/2Xd6HEiM/sophisticatedstorage-1.21.1-1.5.18.1405.jar"
+        "https://cdn.modrinth.com/data/hMlaZH8f/versions/LZRKJmS4/sophisticatedstorage-1.21.1-1.5.19.1415.jar"
       ],
-      "fileSize": 1654094
+      "fileSize": 1654440
     },
     {
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",

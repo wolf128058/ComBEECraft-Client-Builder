@@ -3486,6 +3486,21 @@
       "fileSize": 1120948
     },
     {
+      "path": "mods/megacells-4.10.1.jar",
+      "hashes": {
+        "sha512": "43b5452c0ce745f03cabef962cf74392376bff752a2ad1dac71af0982905970c4c6e94a62a37a18ad0ea3beb235ba0ef69d40b77fcfb5643789b04bfb03fe03a",
+        "sha1": "649780cc164bb39060ff7396cc24b6cbd3607167"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jjuIRIVr/versions/uuYUevGe/megacells-4.10.1.jar"
+      ],
+      "fileSize": 1120948
+    },
+    {
       "path": "mods/merequester-neoforge-1.21.1-1.4.1.jar",
       "hashes": {
         "sha512": "72dd290d32e5f5393fcdb570ce61a2e390a37204ce084cb751218b5c2c97a1147ef42849b80612f779b5071ac28c442f9b9fd3555a4b303b5503bd71f9085df4",

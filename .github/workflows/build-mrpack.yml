@@ -50,6 +50,12 @@ jobs:
             exit 1
           fi
 
+      - name: Upload overrides artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: overrides-${{ github.run_id }}
+          path: overrides/
+
       - name: Ensure tooling
         run: |
           sudo apt-get update
@@ -115,36 +121,23 @@ jobs:
   build-fat:
     name: Build FAT .mrpack (mit Downloads)
     if: github.event_name != 'workflow_dispatch' || !vars.ACT_LOCAL
+    needs: build-slim
     runs-on: ubuntu-latest
     defaults:
       run:
         shell: bash
 
     steps:
-      - name: Checkout (mit LFS)
+      - name: Checkout (ohne LFS)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          lfs: true
 
-      - name: Ensure Git LFS & fetch overrides
-        run: |
-          set -euxo pipefail
-          git lfs install --local
-          git lfs pull --include="overrides/**" --exclude=""
-
-          echo "---- Pointer-Check ----"
-          PO=$(grep -RIl --exclude-dir=.git -m1 "version https://git-lfs.github.com/spec" overrides || true)
-          if [ -n "$PO" ]; then
-            echo "::group::Pointer-Dateien entdeckt"
-            echo "$PO" | while read -r f; do
-              echo "FILE: $f"
-              head -n3 "$f" || true
-            done
-            echo "::endgroup::"
-            echo "::error::Git LFS Pointer in overrides gefunden. Binärdaten fehlen!"
-            exit 1
-          fi
+      - name: Download overrides artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: overrides-${{ github.run_id }}
+          path: overrides
 
       - name: Ensure tooling
         run: |

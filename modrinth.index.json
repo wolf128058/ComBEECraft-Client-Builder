@@ -1317,8 +1317,8 @@
         "sha1": "9bea163fe2fcd4b679b6d4e748163513407c8423"
       },
       "env": {
-        "client": "required",
-        "server": "required"
+        "client": "optional",
+        "server": "optional"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/7Jy4rK9m/versions/ax7nRazg/aces_spell_utils-1.2.0-1.21.1.jar"

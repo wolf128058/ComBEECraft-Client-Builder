@@ -1056,6 +1056,21 @@
       "fileSize": 1365582
     },
     {
+      "path": "mods/Platform-neoforge-1.21.1-1.2.11.6.jar",
+      "hashes": {
+        "sha512": "b4e66a6a37ae11f78565b8603f71c05b46beb6512ecc08657ce7ae51a5a7d1df6debb8615d9577ffaf73e00bbd0429a98715c42671cb5335dbbde47b56f87cdd",
+        "sha1": "6410a054b6f07b6cbb8a65141a226f7b83e27f86"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/i6fiqm5y/versions/zqmAj1K7/Platform-neoforge-1.21.1-1.2.11.6.jar"
+      ],
+      "fileSize": 469704
+    },
+    {
       "path": "mods/Powah-6.2.8.jar",
       "hashes": {
         "sha512": "66681e28b9e3f8b491bd10bf634af5372465fd851d404f9bf05ef1f26772cc8b3fcfb502ae29673ae6ca9059dfdbf70afb2ffe938d7ef5e29cd65cdc3d91c53b",
@@ -3724,21 +3739,6 @@
         "https://cdn.modrinth.com/data/lAyCdN8C/versions/5UqyNqLt/pet-your-cobblemon-1.3.3.jar"
       ],
       "fileSize": 29233
-    },
-    {
-      "path": "mods/platform-neoforge-1.21.1-1.2.11.3.jar",
-      "hashes": {
-        "sha512": "d82b71d2a44d180509b4eee3bba3a372b81e8a003c5b1da0438f58e90db6b441e6b1abfea9874ae8e459811fee5ce6d8bfe85c807e7091240af050b993862e4e",
-        "sha1": "abd9437448d930c62871fd214ff37a3a6c74da60"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/i6fiqm5y/versions/Idu0kQLR/platform-neoforge-1.21.1-1.2.11.3.jar"
-      ],
-      "fileSize": 488718
     },
     {
       "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",

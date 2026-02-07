@@ -1,5 +1,5 @@
-/.env
 /.build/**
 /.env
 /.packroot/**
 /build/**
+/tools/__pycache__/*

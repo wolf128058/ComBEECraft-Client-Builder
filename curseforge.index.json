@@ -5,6 +5,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "AE2 Things",
+    "id": 609977,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "xycraft core",
     "id": 653786,
     "path": "overrides/mods"
@@ -30,6 +35,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "J.A.C.M Just Another Chisel",
+    "id": 920332,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "productive farming",
     "id": 944463,
     "path": "overrides/mods"
@@ -47,6 +57,11 @@
   {
     "alias": "Save My Shaky Network",
     "id": 1129397,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "AE2 MEGA Things",
+    "id": 1150075,
     "path": "overrides/mods"
   },
   {

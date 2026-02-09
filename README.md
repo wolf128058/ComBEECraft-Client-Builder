@@ -71,6 +71,7 @@ GITHUB_REPOSITORY=owner/repo
 
 ## Notes
 
+- For Server Version see: [ComBEECraft-Server-Builder](https://github.com/wolf128058/ComBEECraft-Server-Builder)
 - The scripts modify the JSON files in place; commit the results after running.
 - `filter.sh` and `curseforge-overrides.sh` hit external APIs and require network
   access plus valid credentials where noted.

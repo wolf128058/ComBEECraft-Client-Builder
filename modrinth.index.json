@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.2",
+  "versionId": "1.1.3-Preview01",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -546,19 +546,19 @@
       "fileSize": 35691
     },
     {
-      "path": "mods/EuphoriaPatcher-1.8.4-r5.7.1-neoforge.jar",
+      "path": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
       "hashes": {
-        "sha512": "715c9daa9b26eef3ae6b4b246ad898750c52f250e92c63b3974509c37e6c9501693423cc89937d83ead762e1c24f29b59e1e5b897d9dfb6a48f0fccf62da5d63",
-        "sha1": "88313d8da18641dcca1b0f1a23daab2f85374156"
+        "sha512": "da27371209629901a2e01d3413f08677119a5a9aa8deda8dc787b6124d2240e2ea748865a6b3a3065cca81428d57ffe4a8db855d19517aa6c3ec41c14535fd7e",
+        "sha1": "48e7c3aa59315069b79025f09bc2f291569c8a2a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/qVq89ftZ/EuphoriaPatcher-1.8.4-r5.7.1-neoforge.jar"
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/m7RqzZJP/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar"
       ],
-      "fileSize": 2386744
+      "fileSize": 2773488
     },
     {
       "path": "mods/Explorify v1.6.4 f15-88.mod.jar",
@@ -861,19 +861,19 @@
       "fileSize": 1104550
     },
     {
-      "path": "mods/MoreCobblemonTweaks-neoforge-1.3.2.jar",
+      "path": "mods/MoreCobblemonTweaks-neoforge-1.3.3.jar",
       "hashes": {
-        "sha512": "cea126ac8ae0f422efbaca7ed355b5bc50b979143ff141c0de31134f258331ab086b8fefe6aaba5c88832a76515a447b273c296f54dadcb197751800241adc58",
-        "sha1": "81fd51f24ab8c5bf994764990b9f221fc0cb91b2"
+        "sha512": "58a4d777af8986350ead08691c6b7680b162bb3b7160588203ecf151045edfb700c9f099398e52d5cd4b753ed59ef58d14ff11ef791a0dbc1d1ca8a2db0a5fbc",
+        "sha1": "dcfce07ad4604a2a8a3a97f6c505ae6e015210d9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/IXahmilW/MoreCobblemonTweaks-neoforge-1.3.2.jar"
+        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/LDMOCVN8/MoreCobblemonTweaks-neoforge-1.3.3.jar"
       ],
-      "fileSize": 133106
+      "fileSize": 138756
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -2631,19 +2631,19 @@
       "fileSize": 81847
     },
     {
-      "path": "mods/entity_model_features_1.21-neoforge-3.0.11.jar",
+      "path": "mods/entity_model_features_1.21-neoforge-3.0.12.jar",
       "hashes": {
-        "sha512": "2f4be1e9d53858f80ccabfb06e5825dbdb859e68e18d15cb5ec98ecba82c35095b030699213c57356b12bc2091fe3f741952b72fd0b749ed2832d678f3044c7b",
-        "sha1": "9c18c7e2aba920358e97f094823898071c5151a9"
+        "sha512": "a8bf41309d8606dfc513271d6f25cfe0bc8493aa055a3a922c6ce4b766bd371eb54c24a9446aab4d59f6507f5280b6a0cba79173d9e828b3871ba5ab381890b5",
+        "sha1": "592166c3d5d6f5c17b31e7fa2607d85038883d09"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/eWEQjNfI/entity_model_features_1.21-neoforge-3.0.11.jar"
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/JHa6X5M3/entity_model_features_1.21-neoforge-3.0.12.jar"
       ],
-      "fileSize": 493897
+      "fileSize": 498869
     },
     {
       "path": "mods/entity_sound_features_1.21-neoforge-0.7.1.jar",
@@ -2661,19 +2661,19 @@
       "fileSize": 99751
     },
     {
-      "path": "mods/entity_texture_features_1.21-neoforge-7.0.8.jar",
+      "path": "mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
       "hashes": {
-        "sha512": "f07da56e0b6c2ea6a02da41efb157fad3fc2d797bd6ee3170f3e8f2f5a5b91930d610015034a467eb042561b3e6d976d4ea4a491957063e56c2f1ef1bf77890c",
-        "sha1": "1b9fa548d04b67508a9ad63fe6fb69d6a315232f"
+        "sha512": "ffe8cabdda7647ce5362a835fd28446516656e20541fd32f0c985603fd896a7b3fe5ee73680d6bdefb208786532bb0c0d3ecc5275e7acfef2c06b0a620ca21cb",
+        "sha1": "0a31d1b0753ad626b06e14fb5af840bf3d4c7973"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/BVzZfTc1/versions/p7wtsUSV/entity_texture_features_1.21-neoforge-7.0.8.jar"
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar"
       ],
-      "fileSize": 733270
+      "fileSize": 735043
     },
     {
       "path": "mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
@@ -3591,19 +3591,19 @@
       "fileSize": 1498683
     },
     {
-      "path": "mods/notenoughanimations-neoforge-1.11.2-mc1.21.1.jar",
+      "path": "mods/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
       "hashes": {
-        "sha512": "6e791355bd3bae4ce0a915d6030c8b7b81df7fc44b61d24cdef5374fdf87c42e82d99059949f5c48720bbeedba84bda487aad4ed716b26e861a03768a8d3ac93",
-        "sha1": "7e3c57e757d475f4a0fb90831ab762a5d8c27560"
+        "sha512": "dbc140c7d05046e79edf8a5bc860f0fcdcbe1fba1058ad4f03979256cf58550b75ad07c0ea152e97523a8459f4764914b4e54883001c5ea73d89ae9ee47051ba",
+        "sha1": "3dd52f95293595ffdabbcfad842e7a191236f223"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MPCX6s5C/versions/nMfx80VN/notenoughanimations-neoforge-1.11.2-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/MPCX6s5C/versions/thf4cN71/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar"
       ],
-      "fileSize": 1930488
+      "fileSize": 1926047
     },
     {
       "path": "mods/observable-5.4.4.jar",
@@ -4191,19 +4191,19 @@
       "fileSize": 1457506
     },
     {
-      "path": "mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
+      "path": "mods/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
       "hashes": {
-        "sha512": "09bc87ebd3adb05451e9575bcc2e41865c3b3437b3f8b6b7a314bb0c7d32a79c15d76d8b3b18ab5ffe43a682c52ba22c3715837d7ab24f514f267b6264304285",
-        "sha1": "14e6fb20e82ffcb7e604e595118e7d0ca9f7f384"
+        "sha512": "f520d93a336b835e90da1667a2a14aa32dccd38544a2f0aaf382927b9521afb0df6d9fa909404dae9c63dc53657ed79ce8fbe0309064b1831beed74db3ca35c8",
+        "sha1": "0a4fede95e0369bd54c45c6e1b8ceb90071315f6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/nVJQQoQ0/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/vj8UV3SS/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar"
       ],
-      "fileSize": 1966859
+      "fileSize": 1967305
     },
     {
       "path": "mods/sliceanddice-forge-4.2.2.jar",
@@ -4521,19 +4521,19 @@
       "fileSize": 299471
     },
     {
-      "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.4.2.jar",
+      "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.4.3.jar",
       "hashes": {
-        "sha512": "7e217a58c22d6ade73faad49906aca2454a67132623cd6b4abfd07a91fa449d5bc42c56a27aa727ebb9038f066df4881d1343392661a063bda18a61cbfc916ed",
-        "sha1": "d149651cd28c37667b3b77658e343bfbfb327af1"
+        "sha512": "1b93d4f60c0a03cf2851571619ad6e4285a1b6e056a8d9a47fb8d9e4d0fe78750051adc63ee3f22367ffe1466d9ebe2f22a0c0472c5e55ae5be0054e065537ee",
+        "sha1": "f67f53e0c40244e93cfddfff9984009f1dfcdce1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/vRFcG5n6/versions/1xE2duMK/tooltipoverhaul-neoforge-1.21.1-1.4.2.jar"
+        "https://cdn.modrinth.com/data/vRFcG5n6/versions/FqeNLuz3/tooltipoverhaul-neoforge-1.21.1-1.4.3.jar"
       ],
-      "fileSize": 462544
+      "fileSize": 462413
     },
     {
       "path": "mods/toomanyrecipeviewers-0.7.1+mc.21.1.jar",

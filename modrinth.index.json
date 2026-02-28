@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.3-Preview01",
+  "versionId": "1.1.3-Preview02",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -1656,19 +1656,19 @@
       "fileSize": 193619
     },
     {
-      "path": "mods/better_modlist-1.1.21.jar",
+      "path": "mods/better_modlist-1.1.22.jar",
       "hashes": {
-        "sha512": "190f6afbb18c919aa9d02abe47c234b98f1d30e828bcc0b0f3d607716513075dad1fe494cd0ed9513afd4ec6e8a41989b0b7b93e9465f668e53fc7474e9e4057",
-        "sha1": "9da2a1c4f5450695dd3cef2b760ef6ddb3f3e031"
+        "sha512": "99b39ffaaa04c0332602174c4b65445b3defdc6db1dc0a881b7c4bcd477734994d41d9a74bc5dc7066f8feeddc5075f62f926eb3ecabad135c7d381181ada1a9",
+        "sha1": "c5c49876cf0e036c631b0909fed6903d7e28cc45"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sbpqhzIG/versions/GiLH27s1/better_modlist-1.1.21.jar"
+        "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar"
       ],
-      "fileSize": 806109
+      "fileSize": 805721
     },
     {
       "path": "mods/betterarcheology-neoforge-1.21.1-1.3.4.jar",
@@ -4804,6 +4804,21 @@
         "https://cdn.modrinth.com/data/1GY5Eip3/versions/QuFotxpR/Battle%20Tracks%20v1.2.zip"
       ],
       "fileSize": 14394261
+    },
+    {
+      "path": "resourcepacks/CCC_2.0wLegends.zip",
+      "hashes": {
+        "sha512": "b86ee826cccb9465e99fb8da0b4ecc5382a381c719c7800f6f757fd6350af71e7b523a81fcc97e92c9ef7c433bf31186b47caa5a98bbed573a06ec12930ae4b0",
+        "sha1": "5a3a97b3664c58a0c2ace2f9cf871de171af699d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/578VPQc9/versions/odq1OkaX/CCC_2.0wLegends.zip"
+      ],
+      "fileSize": 18462633
     },
     {
       "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",

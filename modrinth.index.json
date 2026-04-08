@@ -4806,19 +4806,19 @@
       "fileSize": 14394261
     },
     {
-      "path": "resourcepacks/CCC_2.0wLegends.zip",
+      "path": "mods/complete-cobblemon-collection-w-legendary-spawns-2.0.1.jar",
       "hashes": {
-        "sha512": "b86ee826cccb9465e99fb8da0b4ecc5382a381c719c7800f6f757fd6350af71e7b523a81fcc97e92c9ef7c433bf31186b47caa5a98bbed573a06ec12930ae4b0",
-        "sha1": "5a3a97b3664c58a0c2ace2f9cf871de171af699d"
+        "sha512": "caf5ad4263e7a753527a719100d1c1358386fc288c9966d183223596642caa87844881973c32eaf20f17836e4335bac7b0853bfbe2e00305515098ef39a3294b",
+        "sha1": "710a04b0dba6ec254e2f9c1bb992d6a05cfb842d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/578VPQc9/versions/odq1OkaX/CCC_2.0wLegends.zip"
+        "https://cdn.modrinth.com/data/578VPQc9/versions/BwdlYgEI/complete-cobblemon-collection-w-legendary-spawns-2.0.1.jar"
       ],
-      "fileSize": 18462633
+      "fileSize": 45271951
     },
     {
       "path": "resourcepacks/Cobblemon Interface Modded v1.9.4.zip",

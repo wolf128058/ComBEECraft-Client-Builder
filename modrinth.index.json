@@ -1026,19 +1026,19 @@
       "fileSize": 28259
     },
     {
-      "path": "mods/Perception-NEOFORGE-0.1.6+1.21.1.jar",
+      "path": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
       "hashes": {
-        "sha512": "b814450b3179ee57928de50c89be7b0c0d8430173ac6526bea899ec1d6801bbd4b6f122ab94cfd89b28a5c71e433a5d07c4a65e7ce491bff423ed08ba090ab43",
-        "sha1": "5894b16c9504d25c607b06f50f6d1ebe113d517f"
+        "sha512": "540180f6b90776096268249baa4e9380dff750989d8a6213289946b788ba07b647a6ff318ec1abbcaee5372ba9bd5b9244980869db43d1af0787a5ba57d6c93b",
+        "sha1": "ea6d1403c8bc5cdda2727c1a90b29284c0ed653a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P8STLvzB/versions/eFzzv5vq/Perception-NEOFORGE-0.1.6%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/P8STLvzB/versions/W5IQteYO/Perception-NEOFORGE-0.2.1%2B1.21.1.jar"
       ],
-      "fileSize": 68739
+      "fileSize": 78664
     },
     {
       "path": "mods/Philips-Ruins1.21.1-2.0-NeoForge.jar",

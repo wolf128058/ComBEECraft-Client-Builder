@@ -2961,19 +2961,19 @@
       "fileSize": 5520152
     },
     {
-      "path": "mods/iris-flywheel-compat-NeoForge-2.2.0.jar",
+      "path": "mods/iris-flywheel-compat-NeoForge-2.4.0.jar",
       "hashes": {
-        "sha512": "dc612f6b3ffd540b0f3ef6a3632c63df005b203863bf2f0de4d20a23db874defdb28596b336e18d8c28e6b9d17e53356d824459e02f4f2575799d0723a3ec944",
-        "sha1": "68efdb7a2bc591c5b74dd1c384a799765140ef5f"
+        "sha512": "192e5f00f2c146d2920867d7cd691ecec7ddd2acfb95880cc59084e8949225db92ecfb9221ba7223fc924ec43f2ca861115f83f9dc3f79e14a2f2a8db5287070",
+        "sha1": "b8630517b6017f4d075ce594e5ef333b38748029"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ndHYMY2K/versions/9ZDpsyto/iris-flywheel-compat-NeoForge-2.2.0.jar"
+        "https://cdn.modrinth.com/data/ndHYMY2K/versions/6ZQz5Ow2/iris-flywheel-compat-NeoForge-2.4.0.jar"
       ],
-      "fileSize": 889721
+      "fileSize": 907133
     },
     {
       "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",

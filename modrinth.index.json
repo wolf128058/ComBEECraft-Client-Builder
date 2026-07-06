@@ -4521,19 +4521,19 @@
       "fileSize": 299471
     },
     {
-      "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.4.3.jar",
+      "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
       "hashes": {
-        "sha512": "1b93d4f60c0a03cf2851571619ad6e4285a1b6e056a8d9a47fb8d9e4d0fe78750051adc63ee3f22367ffe1466d9ebe2f22a0c0472c5e55ae5be0054e065537ee",
-        "sha1": "f67f53e0c40244e93cfddfff9984009f1dfcdce1"
+        "sha512": "b4906c4e86b0f6ded79ae448aaf77abfcb15f9d6bca667b20631af421b3925894a68243739722b82d8a04a9a019ee97b39e105caec6f57ae1451769e2223e93f",
+        "sha1": "a2dd6ad90ba8648c87f4a8b049bf50dd6f52c39f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/vRFcG5n6/versions/FqeNLuz3/tooltipoverhaul-neoforge-1.21.1-1.4.3.jar"
+        "https://cdn.modrinth.com/data/vRFcG5n6/versions/dJSHREVC/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar"
       ],
-      "fileSize": 462413
+      "fileSize": 574348
     },
     {
       "path": "mods/toomanyrecipeviewers-0.7.2+mc.21.1.jar",

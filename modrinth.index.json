@@ -2811,19 +2811,19 @@
       "fileSize": 17515951
     },
     {
-      "path": "mods/forgematica-0.4.1+mc1.21.1.jar",
+      "path": "mods/forgematica-0.4.2+mc1.21.1.jar",
       "hashes": {
-        "sha512": "3a69b9664541c2ac34f7940a031271a4d8e713288060594a5563ac079f07eba8d2d3868f0243c0a5d44f0bde50d787b32efb97a7ae7ea16075bfc6bb7f577a5d",
-        "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+        "sha512": "4436d2dbeb5e7f63615ce40f99b980e07acf03ac0709ccf0f951c2841fb2983da7e2d55802659b4026b4b3bcc76ce1e29c605cb589059318c4b704615f0a3378",
+        "sha1": "586c374d30d7a110c2f940b17cb0faac377e51c8"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dCKRaeBC/versions/bNQ9lJbg/forgematica-0.4.1%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/dCKRaeBC/versions/71jxaAwz/forgematica-0.4.2%2Bmc1.21.1.jar"
       ],
-      "fileSize": 1383228
+      "fileSize": 1646155
     },
     {
       "path": "mods/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar",

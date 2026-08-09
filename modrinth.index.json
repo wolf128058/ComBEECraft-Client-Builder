@@ -1656,19 +1656,19 @@
       "fileSize": 193619
     },
     {
-      "path": "mods/better_modlist-1.1.22.jar",
+      "path": "mods/better_modlist-21.1.1.jar",
       "hashes": {
-        "sha512": "99b39ffaaa04c0332602174c4b65445b3defdc6db1dc0a881b7c4bcd477734994d41d9a74bc5dc7066f8feeddc5075f62f926eb3ecabad135c7d381181ada1a9",
-        "sha1": "c5c49876cf0e036c631b0909fed6903d7e28cc45"
+        "sha512": "cabcf78010f1d1ef599184a515704d84984c1eddcb41fd1bc77ee709cc804ea5a6ff25810e4a5a8c26dd0acd785fde7c4d05222dca850f02dabf9cd7f07138ae",
+        "sha1": "8dce8539dd11941ad48a0c8c8c9876b54a65f575"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sbpqhzIG/versions/XlCN7NWa/better_modlist-1.1.22.jar"
+        "https://cdn.modrinth.com/data/sbpqhzIG/versions/XavNSFnf/better_modlist-21.1.1.jar"
       ],
-      "fileSize": 805721
+      "fileSize": 818245
     },
     {
       "path": "mods/betterarcheology-neoforge-1.21.1-1.3.4.jar",

@@ -2616,19 +2616,19 @@
       "fileSize": 38160
     },
     {
-      "path": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+      "path": "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
       "hashes": {
-        "sha512": "22258e118552e690ae77ad1a13e5dfe69bf94bdd765d2e614e2e4cc7410c406866b7937b54e8475660bba858b0eadb7efd430146563301143643622622d2c928",
-        "sha1": "e4fa515c5deab3165f250f2a1297ac836d496064"
+        "sha512": "b12eb7f5fe460b865d54c23aee04bb72ea47fd9681d29cf46d96ad672cbe8e5bb5cbce5b87baafc69146aee468c567cf6eeedc42fec08169fb4395c39ef92252",
+        "sha1": "4d453df785ac21e0e7389cba949f4fa460c3e267"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zfAkJn0r/enchdesc-neoforge-1.21.1-21.1.9.jar"
+        "https://cdn.modrinth.com/data/UVtY3ZAC/versions/IktklYWh/enchdesc-neoforge-1.21.1-21.1.11.jar"
       ],
-      "fileSize": 81847
+      "fileSize": 82648
     },
     {
       "path": "mods/entity_model_features_1.21-neoforge-3.0.12.jar",

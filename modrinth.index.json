@@ -2646,19 +2646,19 @@
       "fileSize": 498869
     },
     {
-      "path": "mods/entity_sound_features_1.21-neoforge-0.7.1.jar",
+      "path": "mods/entity_sound_features-0.8.2-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "5c096a6f1706b9cfa0b8973597b761d151755b035b654f563f1d2a699796c86c4ae11ab33ca3bfb84a40e738c039f2081cbfa3af18b48374d9828d9f5ebec468",
-        "sha1": "fc9c9ecca9c14aedb0a5a0bec667d1ba6e726b40"
+        "sha512": "da1c5fbe0217b05cff471bcb5220b31de09f8f5e5259ce0a8493c4af470a29e4e2a6b560c5b50f1bf2d7009f30e411d84faf00e6607c597b6cba4bcd293199d4",
+        "sha1": "74932e01844b2524d5d7ad958d4bc638ac5743c1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/IMuO8COj/versions/BcsnIPDq/entity_sound_features_1.21-neoforge-0.7.1.jar"
+        "https://cdn.modrinth.com/data/IMuO8COj/versions/eafVUs7O/entity_sound_features-0.8.2-1.21-neoforge.jar"
       ],
-      "fileSize": 99751
+      "fileSize": 98932
     },
     {
       "path": "mods/entity_texture_features_1.21-neoforge-7.0.9.jar",

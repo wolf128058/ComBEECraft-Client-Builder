@@ -2661,19 +2661,19 @@
       "fileSize": 99751
     },
     {
-      "path": "mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
+      "path": "mods/entity_texture_features-7.2.1-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "ffe8cabdda7647ce5362a835fd28446516656e20541fd32f0c985603fd896a7b3fe5ee73680d6bdefb208786532bb0c0d3ecc5275e7acfef2c06b0a620ca21cb",
-        "sha1": "0a31d1b0753ad626b06e14fb5af840bf3d4c7973"
+        "sha512": "8158242ce79b38a613de7696221eae24c9a451040143fbe43f8d8a37329d7debcb6164c0d42177d2f7db306e54f2d7bbd99eee74add39ad3871c70754edd8cb7",
+        "sha1": "908d09263709193b918fdc9ca0d79c9d90c4a531"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar"
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar"
       ],
-      "fileSize": 735043
+      "fileSize": 783217
     },
     {
       "path": "mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",

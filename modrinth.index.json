@@ -546,19 +546,19 @@
       "fileSize": 35691
     },
     {
-      "path": "mods/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar",
+      "path": "mods/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar",
       "hashes": {
-        "sha512": "da27371209629901a2e01d3413f08677119a5a9aa8deda8dc787b6124d2240e2ea748865a6b3a3065cca81428d57ffe4a8db855d19517aa6c3ec41c14535fd7e",
-        "sha1": "48e7c3aa59315069b79025f09bc2f291569c8a2a"
+        "sha512": "969a2505cce802680569a9d35462b080b1678d9c28b0d51f245ade85c3a973697f30ad3222a6725a911e05af16a63be609c1d9e66b70a7bf6ce43c3cf53ec778",
+        "sha1": "d728a26bd67b70dfc510fbb08def619ec015c998"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4H6sumDB/versions/m7RqzZJP/EuphoriaPatcher-1.8.6-r5.7.1-neoforge.jar"
+        "https://cdn.modrinth.com/data/4H6sumDB/versions/iOPYchp8/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar"
       ],
-      "fileSize": 2773488
+      "fileSize": 4456000
     },
     {
       "path": "mods/Explorify v1.6.4 f15-88.mod.jar",

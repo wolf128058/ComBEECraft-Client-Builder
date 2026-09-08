@@ -861,19 +861,19 @@
       "fileSize": 1104550
     },
     {
-      "path": "mods/MoreCobblemonTweaks-neoforge-1.3.3.jar",
+      "path": "mods/MoreCobblemonTweaks-neoforge-1.3.4.jar",
       "hashes": {
-        "sha512": "58a4d777af8986350ead08691c6b7680b162bb3b7160588203ecf151045edfb700c9f099398e52d5cd4b753ed59ef58d14ff11ef791a0dbc1d1ca8a2db0a5fbc",
-        "sha1": "dcfce07ad4604a2a8a3a97f6c505ae6e015210d9"
+        "sha512": "3003622aceef9447a56ac793d21f59ed5fc71e07c88cc8996df5dece72cbb279cb45c72a2c1cf41515739f0f83db8e9d50a5f06a8b008f723aa4706614b47e99",
+        "sha1": "4b4d0610d5b0b4252945c834998140924208f230"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/LDMOCVN8/MoreCobblemonTweaks-neoforge-1.3.3.jar"
+        "https://cdn.modrinth.com/data/5KWlJ2HC/versions/iqJUNNhE/MoreCobblemonTweaks-neoforge-1.3.4.jar"
       ],
-      "fileSize": 138756
+      "fileSize": 139107
     },
     {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",

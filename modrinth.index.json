@@ -1206,19 +1206,19 @@
       "fileSize": 27449388
     },
     {
-      "path": "mods/XaeroPlus-2.30.6+neoforge-1.21.1-WM1.40.10-MM25.3.9.jar",
+      "path": "mods/XaeroPlus-2.36.1+neoforge-1.21.1-WM1.46.0-MM26.5.0.jar",
       "hashes": {
-        "sha512": "daeeb888c7cb9d3f73fad0ef313f803adf93e6f2f7da0f5c73d534d5639d0a0b6f68e90a7c047204db12590537ecd54fbeda37468809ec6864878d9d5e5fceb8",
-        "sha1": "e7c3aa583ed8e45f15896a90d2585c6f30235c34"
+        "sha512": "ee3427a22526d376284ba2fcb61b0a17d276271102098145a8b76f38b8298d5d422c2797ecfff9a69bd029d61cff3d6a9aaedbfa2cc86a82c74097263a154483",
+        "sha1": "07def0a5bb76d0546c793d9966cf8d5a3852ff14"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EnPUzSTg/versions/Tx0krK4p/XaeroPlus-2.30.6%2Bneoforge-1.21.1-WM1.40.10-MM25.3.9.jar"
+        "https://cdn.modrinth.com/data/EnPUzSTg/versions/DBkyVa3b/XaeroPlus-2.36.1%2Bneoforge-1.21.1-WM1.46.0-MM26.5.0.jar"
       ],
-      "fileSize": 7795076
+      "fileSize": 8119797
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",

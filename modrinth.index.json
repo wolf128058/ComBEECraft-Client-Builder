@@ -3456,19 +3456,19 @@
       "fileSize": 12736547
     },
     {
-      "path": "mods/mega_showdown-neoforge-1.6.9+1.7.3+1.21.1.jar",
+      "path": "mods/mega_showdown-neoforge-1.1.2+1.8+1.21.1-release.jar",
       "hashes": {
-        "sha512": "6b5b02edd622f0da9784e2912122397196419fcc8436008526e8e0fefbe0808549bbdb20bf93d2ddd681dda73bf0ea46a302b9195ab02241815b39622310bf21",
-        "sha1": "5184bcf9fca8aefb4609ba259565f2e6bdac5a14"
+        "sha512": "f035694f07d978fce2b41c53aab52b89dd30b8f85de6d37e6ae7890caa50a67f01bc25c42001a24221bd852f39a0a98831d0261874e21557e02d11d76f8747f9",
+        "sha1": "709a62b758cedac23dc2183353404e5913a6d956"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/SszvX85I/versions/yPEfYlfE/mega_showdown-neoforge-1.6.9%2B1.7.3%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/SszvX85I/versions/OqWDIPCw/mega_showdown-neoforge-1.1.2%2B1.8%2B1.21.1-release.jar"
       ],
-      "fileSize": 16374105
+      "fileSize": 20179867
     },
     {
       "path": "mods/megacells-4.10.1.jar",
